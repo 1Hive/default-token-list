@@ -1,0 +1,10 @@
+[
+  {
+    "name": "FaucetToken on Sokol",
+    "address": "0x1b457c787792d17bea8d41885ada00e764712cdd",
+    "symbol": "FAU",
+    "decimals": 18,
+    "chainId": 77,
+    "logoURI": ""
+  }
+]

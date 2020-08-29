@@ -22,5 +22,13 @@
     "decimals": 18,
     "chainId": 42,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAaF64BFCC32d0F15873a02163e7E500671a4ffcD/logo.png"
+  },
+  {
+    "name": "FaucetToken",
+    "address": "0xfab46e002bbf0b4509813474841e0716e6730136",
+    "symbol": "FAU",
+    "decimals": 18,
+    "chainId": 42,
+    "logoURI": ""
   }
 ]

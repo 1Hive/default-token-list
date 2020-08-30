@@ -4,8 +4,7 @@
     "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
     "symbol": "WETH",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6/logo.png"
+    "chainId": 100
   },
   {
     "name": "Dai Stablecoin on xDai",

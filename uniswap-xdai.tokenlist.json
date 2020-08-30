@@ -1,6 +1,6 @@
 {
   "name": "Uniswap Default List",
-  "timestamp": "2020-08-30T18:17:16.047Z",
+  "timestamp": "2020-08-30T18:24:58.636Z",
   "version": {
     "major": 1,
     "minor": 3,
@@ -8,10 +8,7 @@
   },
   "tags": {},
   "logoURI": "ipfs://QmZgpZq1HkVS7YCThNJeR51KFVo5AL8P3ThA2y9wcw53p9",
-  "keywords": [
-    "uniswap",
-    "default"
-  ],
+  "keywords": ["uniswap", "default"],
   "tokens": [
     {
       "name": "0xBitcoin Token",
@@ -1209,8 +1206,7 @@
       "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
       "symbol": "WETH",
       "decimals": 18,
-      "chainId": 100,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6/logo.png"
+      "chainId": 100
     },
     {
       "name": "yCurve on xDai",

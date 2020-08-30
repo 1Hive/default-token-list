@@ -1,6 +1,6 @@
 {
   "name": "Uniswap Default List",
-  "timestamp": "2020-08-30T18:33:19.364Z",
+  "timestamp": "2020-08-30T18:39:30.936Z",
   "version": {
     "major": 1,
     "minor": 3,
@@ -1063,8 +1063,7 @@
       "address": "0xfab46e002bbf0b4509813474841e0716e6730136",
       "symbol": "FAU",
       "decimals": 18,
-      "chainId": 42,
-      "logoURI": ""
+      "chainId": 42
     },
     {
       "name": "Maker",

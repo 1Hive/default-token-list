@@ -1,6 +1,6 @@
 {
   "name": "Uniswap Default List",
-  "timestamp": "2020-08-30T17:56:03.665Z",
+  "timestamp": "2020-08-30T18:02:17.827Z",
   "version": {
     "major": 1,
     "minor": 3,
@@ -1105,6 +1105,14 @@
       "name": "Gnosis on xDai",
       "address": "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb",
       "symbol": "GNO",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": ""
+    },
+    {
+      "name": "Honey",
+      "address": "0x71850b7e9ee3f13ab46d67167341e4bdc905eef9",
+      "symbol": "HNY",
       "decimals": 18,
       "chainId": 100,
       "logoURI": ""

@@ -42,7 +42,7 @@
     "chainId": 100
   },
   {
-    "name": "Tether (USDT) on xDai",
+    "name": "Tether on xDai",
     "address": "0x4ECaBa5870353805a9F068101A40E0f32ed605C6",
     "symbol": "USDT",
     "decimals": 18,
@@ -98,7 +98,7 @@
     "chainId": 100
   },
   {
-    "name": "EthLend (Aave) on xDai",
+    "name": "EthLend on xDai",
     "address": "0xc1b42BDb485dEb24C74f58399288d7915a726C1D",
     "symbol": "LEND",
     "decimals": 18,

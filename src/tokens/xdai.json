@@ -105,6 +105,13 @@
     "chainId": 100
   },
   {
+    "name": "XMOON",
+    "address": "0x1e16aa4df73d29c029d94ceda3e3114ec191e25a",
+    "symbol": "XMOON",
+    "decimals": 18,
+    "chainId": 100
+  },
+  {
     "name": "Decentraland MANA on xDai",
     "address": "0x7838796B6802B18D7Ef58fc8B757705D6c9d12b3",
     "symbol": "MANA",

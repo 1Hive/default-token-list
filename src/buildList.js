@@ -9,7 +9,7 @@ const xdai = require("./tokens/xdai.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "Honeyswap Default List",
+    name: "Honeyswap Default",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],

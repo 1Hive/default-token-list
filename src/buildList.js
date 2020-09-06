@@ -9,7 +9,7 @@ const xdai = require("./tokens/xdai.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "Uniswap Default List",
+    name: "Honeyswap Default List",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
@@ -18,7 +18,7 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI: "ipfs://QmZgpZq1HkVS7YCThNJeR51KFVo5AL8P3ThA2y9wcw53p9",
-    keywords: ["uniswap", "default"],
+    keywords: ["honeyswap", "xdai"],
     tokens: [...mainnet, ...ropsten, ...goerli, ...kovan, ...rinkeby, ...xdai]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {

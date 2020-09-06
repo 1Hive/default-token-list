@@ -143,7 +143,8 @@
     "address": "0x71850b7e9ee3f13ab46d67167341e4bdc905eef9",
     "symbol": "HNY",
     "decimals": 18,
-    "chainId": 100
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png"
   },
   {
     "name": "Sai on xDai",

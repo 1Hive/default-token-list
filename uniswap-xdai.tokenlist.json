@@ -1,10 +1,10 @@
 {
   "name": "Honeyswap Default",
-  "timestamp": "2020-09-06T01:12:25.729Z",
+  "timestamp": "2020-09-26T19:21:33.271Z",
   "version": {
     "major": 1,
     "minor": 3,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
   "logoURI": "ipfs://QmZgpZq1HkVS7YCThNJeR51KFVo5AL8P3ThA2y9wcw53p9",
@@ -1175,6 +1175,14 @@
       "symbol": "POA20",
       "decimals": 18,
       "chainId": 100
+    },
+    {
+      "name": "Particle",
+      "address": "0xb5d592f85ab2d955c25720ebe6ff8d4d1e1be300",
+      "symbol": "PRTCLE",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/ShenaniganDApp/wiki/master/images/Particle.png"
     },
     {
       "name": "Sai on xDai",

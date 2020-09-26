@@ -160,5 +160,13 @@
     "symbol": "JOON",
     "decimals": 18,
     "chainId": 100
+  },
+    {
+    "name": "Particle",
+    "address": "0xb5d592f85ab2d955c25720ebe6ff8d4d1e1be300",
+    "symbol": "PRTCLE",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/ShenaniganDApp/wiki/master/images/Particle.png"
   }
 ]

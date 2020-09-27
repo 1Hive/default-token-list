@@ -1,6 +1,6 @@
 {
   "name": "honeyswap-default-token-list",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "◦ The Honeyswap default token list",
   "main": "build/honeyswap-default.tokenlist.json",
   "scripts": {
@@ -33,6 +33,8 @@
     "ajv": "^6.12.3",
     "chai": "^4.2.0",
     "mocha": "^8.0.1",
-    "rimraf": "^3.0.2"
+    "node-fetch": "^2.6.1",
+    "rimraf": "^3.0.2",
+    "web3-utils": "^1.3.0"
   }
 }

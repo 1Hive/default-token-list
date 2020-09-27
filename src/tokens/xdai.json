@@ -68,7 +68,8 @@
     "address": "0xbf65bfcb5da067446CeE6A706ba3Fe2fB1a9fdFd",
     "symbol": "YFI",
     "decimals": 18,
-    "chainId": 100
+    "chainId": 100,
+    "logoURI": "https://1inch.exchange/assets/tokens/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e.png"
   },
   {
     "name": "Synthetix USD on xDai",
@@ -83,7 +84,8 @@
     "address": "0x8395F7123ba3FFAD52E7414433D825931C81C879",
     "symbol": "OMG",
     "decimals": 18,
-    "chainId": 100
+    "chainId": 100,
+    "logoURI": "https://1inch.exchange/assets/tokens/0xd26114cd6ee289accf82350c8d8487fedb8a0c07.png"
   },
   {
     "name": "Gnosis on xDai",
@@ -98,7 +100,8 @@
     "address": "0x750eCf8c11867Ce5Dbc556592c5bb1E0C6d16538",
     "symbol": "OWL",
     "decimals": 18,
-    "chainId": 100
+    "chainId": 100,
+    "logoURI": "https://1inch.exchange/assets/tokens/0x1a5f9352af8af974bfc03399e3767df6370d82e4.png"
   },
   {
     "name": "Compound on xDai",
@@ -121,7 +124,8 @@
     "address": "0x1e16aa4df73d29c029d94ceda3e3114ec191e25a",
     "symbol": "XMOON",
     "decimals": 18,
-    "chainId": 100
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/xdai/assets/0x1e16aa4Df73d29C029d94CeDa3e3114EC191E25A/logo.png"
   },
   {
     "name": "Decentraland MANA on xDai",
@@ -136,7 +140,8 @@
     "address": "0x985e144EB355273c4B4D51E448B68b657F482E26",
     "symbol": "POA20",
     "decimals": 18,
-    "chainId": 100
+    "chainId": 100,
+    "logoURI": "https://1inch.exchange/assets/tokens/0x6758b7d441a9739b98552b373703d8d3d14f9e62.png"
   },
   {
     "name": "Honey",
@@ -159,7 +164,8 @@
     "address": "0x5fE9885226677F3Eb5C9ad8aB6c421B4EA38535d",
     "symbol": "JOON",
     "decimals": 18,
-    "chainId": 100
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/12595/small/logo.png?1600995905"
   },
     {
     "name": "Particle",
@@ -168,5 +174,61 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/ShenaniganDApp/wiki/master/images/Particle.png"
+  },
+  {
+    "name": "Wrapped XDAI",
+    "address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
+    "symbol": "WXDAI",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0xe91d153e0b41518a2ce8dd3d7944fa863463a97d/logo.png"
+  },
+  {
+    "name": "Uniswap on xDai",
+    "address": "0x4537e328bf7e4efa29d05caea260d7fe26af9d74",
+    "symbol": "UNI",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://cloudflare-ipfs.com/ipfs/QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg/"
+  },
+  {
+    "name": "UniBright on xDai",
+    "address": "0xd3b93ff74e43ba9568e5019b38addb804fef719b",
+    "symbol": "UBT",
+    "decimals": 8,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e/logo.png"
+  },
+  {
+    "name": "Aragon Network Token on xDai",
+    "address": "0x437a044fb4693890e61d2c1c88e3718e928b8e90",
+    "symbol": "ANT",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x960b236A07cf122663c4303350609A66A7B288C0/logo.png"
+  },
+  {
+    "name": "coin_artist on xDai",
+    "address": "0x14411aecA652F5131834Bf0c8fF581B5dDf3bc03",
+    "symbol": "COIN",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x87b008E57F640D94Ee44Fd893F0323AF933F9195/logo.png"
+  },
+  {
+    "name": "Wrapped BTC on xDai",
+    "address": "0x8e5bBbb09Ed1ebdE8674Cda39A0c169401db4252",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+  },
+  {
+    "name": "HEX on xDai",
+    "address": "0xd9fa47e33d4ff7a1aca489de1865ac36c042b07a",
+    "symbol": "HEX",
+    "decimals": 8,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39/logo.png"
   }
 ]

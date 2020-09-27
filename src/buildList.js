@@ -1,9 +1,4 @@
 const { version } = require("../package.json");
-const mainnet = require("./tokens/mainnet.json");
-const ropsten = require("./tokens/ropsten.json");
-const rinkeby = require("./tokens/rinkeby.json");
-const goerli = require("./tokens/goerli.json");
-const kovan = require("./tokens/kovan.json");
 const xdai = require("./tokens/xdai.json");
 
 module.exports = function buildList() {
@@ -19,7 +14,7 @@ module.exports = function buildList() {
     tags: {},
     logoURI: "ipfs://QmZgpZq1HkVS7YCThNJeR51KFVo5AL8P3ThA2y9wcw53p9",
     keywords: ["honeyswap", "xdai"],
-    tokens: [...mainnet, ...ropsten, ...goerli, ...kovan, ...rinkeby, ...xdai]
+    tokens: [...xdai]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {

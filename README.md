@@ -1,4 +1,4 @@
-# @uniswap/default-token-list
+# @honeyswap-default-token-list
 
 [![Tests](https://github.com/Uniswap/token-lists/workflows/Tests/badge.svg)](https://github.com/1Hive/default-token-list/actions?query=workflow%3ATests)
 [![npm](https://img.shields.io/npm/v/honeyswap-default-token-list)](https://unpkg.com/honeyswap-default-token-list@latest/)

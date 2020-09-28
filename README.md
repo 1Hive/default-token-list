@@ -1,6 +1,6 @@
 # @uniswap/default-token-list
 
-[![Tests](https://github.com/1Hive/default-token-list/workflows/Tests/badge.svg)](https://github.com/1Hive/default-token-list/actions?query=workflow%3ATests)
+[![Tests](https://github.com/Uniswap/token-lists/workflows/Tests/badge.svg)](https://github.com/1Hive/default-token-list/actions?query=workflow%3ATests)
 [![npm](https://img.shields.io/npm/v/honeyswap-default-token-list)](https://unpkg.com/honeyswap-default-token-list@latest/)
 
 This NPM module and GitHub repo contains the default token list used in the Honeyswap interface.

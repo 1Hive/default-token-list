@@ -165,7 +165,7 @@
     "symbol": "JOON",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://assets.coingecko.com/coins/images/12595/small/logo.png?1600995905"
+    "logoURI": "https://assets.coingecko.com/coins/images/12595/small/logo.png"
   },
     {
     "name": "Particle",
@@ -230,5 +230,22 @@
     "decimals": 8,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39/logo.png"
+  },
+  {
+    "name": "Concentrated Voting Power on xDai",
+    "address": "0x7da0bfe9d26c5b64c7580c04bb1425364273e4b0",
+    "symbol": "CVP",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/12266/small/Powerpool.jpg"
+  },
+  {
+    "name": "Curve DAO Token on xDai",
+    "address": "0x712b3d230f3c1c19db860d80619288b1f0bdd0bd",
+    "symbol": "CRV",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png"
   }
+
 ]

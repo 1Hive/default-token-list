@@ -1,6 +1,6 @@
 {
   "name": "Honeyswap Default",
-  "timestamp": "2020-09-27T11:57:17.585Z",
+  "timestamp": "2020-09-27T17:51:58.469Z",
   "version": {
     "major": 2,
     "minor": 0,
@@ -36,6 +36,22 @@
       "decimals": 18,
       "chainId": 100,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo.png"
+    },
+    {
+      "name": "Curve DAO Token on xDai",
+      "address": "0x712b3d230f3c1c19db860d80619288b1f0bdd0bd",
+      "symbol": "CRV",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png"
+    },
+    {
+      "name": "Concentrated Voting Power on xDai",
+      "address": "0x7da0bfe9d26c5b64c7580c04bb1425364273e4b0",
+      "symbol": "CVP",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://assets.coingecko.com/coins/images/12266/small/Powerpool.jpg"
     },
     {
       "name": "Dai Stablecoin on xDai",
@@ -75,7 +91,7 @@
       "symbol": "JOON",
       "decimals": 18,
       "chainId": 100,
-      "logoURI": "https://assets.coingecko.com/coins/images/12595/small/logo.png?1600995905"
+      "logoURI": "https://assets.coingecko.com/coins/images/12595/small/logo.png"
     },
     {
       "name": "EthLend Token on xDai",

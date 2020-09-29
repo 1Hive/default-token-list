@@ -1,6 +1,6 @@
 {
   "name": "honeyswap-default-token-list",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "description": "◦ The Honeyswap default token list",
   "main": "build/honeyswap-default.tokenlist.json",
   "scripts": {

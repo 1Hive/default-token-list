@@ -67,7 +67,7 @@ jobs:
         with:
           # pin-name: Honeyswap Default Token List ${{ needs.bump_version.outputs.new_tag }}
           service: pinata
-          path: 'build/honeyswap-default.tokenlist.json'
+          path: ./build/honeyswap-default.tokenlist.json
           pinataKey: ${{ secrets.PINATA_API_KEY }}
           pinataSecret: ${{ secrets.PINATA_API_SECRET_KEY }}
 

@@ -62,10 +62,8 @@ jobs:
 
       - name: Pin to IPFS (Pinata)
         id: upload
-        # uses: Uniswap/ipfs-pinata-deploy-action@1a34c69f2e0cbc05d3d799cfc801e6851f684791
         uses: aquiladev/ipfs-action@v0.1.4
         with:
-          # pin-name: Honeyswap Default Token List ${{ needs.bump_version.outputs.new_tag }}
           service: pinata
           path: ./build/honeyswap-default.tokenlist.json
           pinataKey: ${{ secrets.PINATA_API_KEY }}

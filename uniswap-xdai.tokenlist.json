@@ -1,10 +1,10 @@
 {
   "name": "Honeyswap Default",
-  "timestamp": "2020-09-27T17:51:58.469Z",
+  "timestamp": "2020-10-03T18:58:09.641Z",
   "version": {
     "major": 2,
-    "minor": 0,
-    "patch": 0
+    "minor": 1,
+    "patch": 2
   },
   "tags": {},
   "logoURI": "ipfs://QmZgpZq1HkVS7YCThNJeR51KFVo5AL8P3ThA2y9wcw53p9",
@@ -20,6 +20,14 @@
       "decimals": 18,
       "chainId": 100,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x960b236A07cf122663c4303350609A66A7B288C0/logo.png"
+    },
+    {
+      "name": "Bidao on xDai",
+      "address": "0x2977893f4c04bfbd6efc68d0e46598d27810d3db",
+      "symbol": "BID",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://assets.coingecko.com/coins/images/12596/small/bidao.png"
     },
     {
       "name": "coin_artist on xDai",
@@ -60,6 +68,22 @@
       "decimals": 18,
       "chainId": 100,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+      "name": "Donut on xDai",
+      "address": "0x524B969793a64a602342d89BC2789D43a016B13A",
+      "symbol": "DONUT",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://assets.coingecko.com/coins/images/7538/small/Donut.png"
+    },
+    {
+      "name": "FalconSwap Token on xDai",
+      "address": "0xde1e70ed71936e4c249a7d43e550f0b99fccddfc",
+      "symbol": "FSW",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfffffffFf15AbF397dA76f1dcc1A1604F45126DB/logo.png"
     },
     {
       "name": "Gnosis on xDai",
@@ -134,12 +158,12 @@
       "logoURI": "https://1inch.exchange/assets/tokens/0xd26114cd6ee289accf82350c8d8487fedb8a0c07.png"
     },
     {
-      "name": "OWL Token on xDai",
-      "address": "0x750eCf8c11867Ce5Dbc556592c5bb1E0C6d16538",
+      "name": "OWL on xDai",
+      "address": "0x0905Ab807F8FD040255F0cF8fa14756c1D824931",
       "symbol": "OWL",
       "decimals": 18,
       "chainId": 100,
-      "logoURI": "https://1inch.exchange/assets/tokens/0x1a5f9352af8af974bfc03399e3767df6370d82e4.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/11149/small/gnosis-owl_32.png"
     },
     {
       "name": "POA20 on xDai",

@@ -16,9 +16,7 @@ async function fetchMissing() {
   const data = await response.json()
   const bridgedTokens = [...new Set(data.result.map(x => x.contractAddress.toLowerCase()))]
 
-  const response2 = await fetch(
-    'https://raw.githubusercontent.com/1Hive-tulip/default-token-list/master/uniswap-xdai.tokenlist.json'
-  )
+  const response2 = await fetch('https://tokens.honeyswap.org')
   const data2 = await response2.json()
 
   const listedTokens = data2.tokens.map(x => x.address.toLowerCase())

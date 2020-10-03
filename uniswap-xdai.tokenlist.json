@@ -89,7 +89,7 @@
       "name": "JOON on xDai",
       "address": "0x5fE9885226677F3Eb5C9ad8aB6c421B4EA38535d",
       "symbol": "JOON",
-      "decimals": 18,
+      "decimals": 4,
       "chainId": 100,
       "logoURI": "https://assets.coingecko.com/coins/images/12595/small/logo.png"
     },

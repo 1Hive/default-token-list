@@ -5,7 +5,7 @@
   "main": "build/honeyswap-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/honeyswap-default.tokenlist.json && node src/write.js > honeyswap-xdai.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/honeyswap-default.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [

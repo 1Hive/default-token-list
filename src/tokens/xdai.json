@@ -270,5 +270,109 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://assets.coingecko.com/coins/images/7538/small/Donut.png"
+  },
+  {
+    "name": "Enigma on xDai",
+    "address": "0x7a7d81657a1a66b38a6ca2565433a9873c6913b2",
+    "symbol": "ENG",
+    "decimals": 8,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf0Ee6b27b759C9893Ce4f094b49ad28fd15A23e4/logo.png"
+  },
+  {
+    "name": "XY Oracle on xDai",
+    "address": "0xfd4e5f45ea24ec50c4db4367380b014875caf219",
+    "symbol": "XYO",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x55296f69f40Ea6d20E478533C15A6B08B654E758/logo.png"
+  },
+  {
+    "name": "aleph.im v2 on xDai",
+    "address": "0x4bc97997883c0397f556bd0f9da6fb71da22f9a2",
+    "symbol": "ALEPH",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x27702a26126e0B3702af63Ee09aC4d1A084EF628/logo.png"
+  },
+  {
+    "name": "Republic Token on xDai",
+    "address": "0x0da1a02cdf84c44021671d183d616925164e08aa",
+    "symbol": "REN",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x408e41876cCCDC0F92210600ef50372656052a38/logo.png"
+  },
+  {
+    "name": "Bitgear on xDai",
+    "address": "0x6f09cf96558d44584db07f8477dd3490599aa63e",
+    "symbol": "GEAR",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1b980e05943dE3dB3a459C72325338d327B6F5a9/logo.png"
+  },
+  {
+    "name": "Meridian Network on xDai",
+    "address": "0xf99efeb34aff6d3099c41605e9ee778caec39317",
+    "symbol": "LOCK",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x95172ccBe8344fecD73D0a30F54123652981BD6F/logo.png"
+  },
+  {
+    "name": "DeFiPIE Token on xDai",
+    "address": "0x317eab07380d670ea814025cba40f5624354a32f",
+    "symbol": "PIE",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x607C794cDa77efB21F8848B7910ecf27451Ae842/logo.png"
+  },
+  {
+    "name": "UniTrade on xDai",
+    "address": "0x860182180e146300df38aab8d328c6e80bec9547",
+    "symbol": "TRADE",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6F87D756DAf0503d08Eb8993686c7Fc01Dc44fB1/logo.png"
+  },
+  {
+    "name": "AirSwap Token on xDai",
+    "address": "0x743a991365ba94BFC90Ad0002CAD433c7a33cb4a",
+    "symbol": "AST",
+    "decimals": 4,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/1019/small/AST.png"
+  },
+  {
+    "name": "Kyber Network Crystal on xDai",
+    "address": "0x1534fB3E82849314360C267FE20Df3901A2ED3f9",
+    "symbol": "KNC",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/947/small/kyber-logo.png"
+  },
+  {
+    "name": "Synthetix Network Token on xDai",
+    "address": "0x3A00E08544d589E19a8e7D97D0294331341cdBF6",
+    "symbol": "SNX",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/3406/small/SNX.png"
+  },
+  {
+    "name": "OM Token on xDai",
+    "address": "0x309Bc6DbcbFB9c84D26FDF65E8924367efCCBdb9",
+    "symbol": "OM",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/12151/small/OM_3D_whtbg.png"
+  },
+  {
+    "name": "Bricks on xDai",
+    "address": "0x2f9ceBf5De3bc25E0643D0E66134E5bf5c48e191",
+    "symbol": "xBRICK",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/11223/small/Brick.png"
   }
 ]

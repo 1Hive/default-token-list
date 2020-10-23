@@ -1,12 +1,17 @@
-const fetch = require('node-fetch')
-const utils = require('web3-utils')
-
+const fetch = require('node-fetch');
+const utils = require('web3-utils');
+const fs = require('fs');
 async function getLogo(xdaiAddr) {
   const response = await fetch(`https://blockscout.com/poa/xdai/tokens/${xdaiAddr}/token-transfers`)
   const text = await response.text()
-  const mainnetAddr = text.match(/https:\/\/etherscan.io\/token\/(0x[a-fA-F0-9]{40})/)[1]
-  const formattedAddr = utils.toChecksumAddress(mainnetAddr)
-  return `https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/${formattedAddr}/logo.png`
+  const mainnetAddr = text.match(/https:\/\/etherscan.io\/token\/(0x[a-fA-F0-9]{40})/)
+  if (mainnetAddr) {
+    const formattedAddr = utils.toChecksumAddress(mainnetAddr[1])
+    return formattedAddr
+  }
+  else {
+    return false
+  }
 }
 
 async function fetchMissing() {
@@ -25,17 +30,42 @@ async function fetchMissing() {
     missingTokens
       .map(x => data.result.find(y => y.contractAddress === x))
       .map(async ({ tokenName, tokenSymbol, tokenDecimal, contractAddress }) => {
-        const logoURI = await getLogo(contractAddress)
-        return {
-          name: tokenName,
-          address: contractAddress,
-          symbol: tokenSymbol,
-          decimals: parseInt(tokenDecimal),
-          chainId: 100,
-          logoURI
+        const mainnetAddress = await getLogo(contractAddress)
+        if (mainnetAddress) {
+          const logoURI = `https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/${mainnetAddress}/logo.png`
+          const response3 = await fetch(logoURI)
+          if (response3.status === 200) {
+            return {
+              name: tokenName,
+              address: contractAddress,
+              symbol: tokenSymbol,
+              decimals: parseInt(tokenDecimal),
+              chainId: 100,
+              logoURI: logoURI,
+              bridged: true,
+              native: "mainnet",
+              contracts: {
+                mainnet: mainnetAddress
+              },
+            }
+          }
         }
       })
   )
 }
 
-fetchMissing().then(x => console.log(JSON.stringify(x, null, '  ')))
+
+
+
+fetchMissing().then(x => {
+  let jsonTokens = JSON.stringify(x, null, '  ')
+
+  fs.writeFile('xdai_extended.json', jsonTokens, (err) => {
+    // throws an error, you could also catch it here
+    if (err) throw err;
+
+    // success case, the file was saved
+    console.log('Saved');
+  });
+
+})

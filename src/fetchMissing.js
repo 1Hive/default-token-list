@@ -7,7 +7,7 @@ async function getLogo(xdaiAddr) {
   const mainnetAddr = text.match(/https:\/\/etherscan.io\/token\/(0x[a-fA-F0-9]{40})/)
   if (mainnetAddr) {
     const formattedAddr = utils.toChecksumAddress(mainnetAddr[1])
-    return formattedAddr
+    return utils.toChecksumAddress(mainnetAddr[1])
   }
   else {
     return false

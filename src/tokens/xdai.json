@@ -398,5 +398,29 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/Ether1Project/Ether-1-Branding/master/PNG%20Logos/ether1new-transparent.png"
+  },
+  {
+    "name": "xREAP",
+    "address": "0x42c6b3ac30ae82d754498f56d9372f0070349409",
+    "symbol": "xREAP",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://reap.vercel.app/reaptoken1.jpg"
+  },
+  {
+    "name": "Polyient Games Governance Token",
+    "address": "0x6099280dC5FC97CBB61B456246316a1B8f79534B",
+    "symbol": "PGT",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://user-images.githubusercontent.com/72729493/95717875-9eb1fa80-0c3b-11eb-8a5b-af581da2c892.png"
+  },
+  {
+    "name": "Golden Bull Token on xDAI",
+    "address": "0x30610f98b61593de963b2303aeeaee69823f561f",
+    "symbol": "GLDB",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://user-images.githubusercontent.com/72521363/95662995-2c55f300-0b33-11eb-90f9-4b1fe6c4097f.png"
   }
 ]

@@ -390,5 +390,13 @@
     "decimals": 8,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1C5db575E2Ff833E46a2E9864C22F4B22E0B37C2/logo.png"
+  },
+  {
+    "name": "Wrapped ETHO",
+    "address": "0xB17d999E840e0c1B157Ca5Ab8039Bd958b5fA317",
+    "symbol": "ETHO",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/Ether1Project/Ether-1-Branding/master/PNG%20Logos/ether1new-transparent.png"
   }
 ]

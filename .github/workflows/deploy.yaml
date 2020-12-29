@@ -7,6 +7,8 @@ jobs:
   bump_version:
     name: Bump version
     runs-on: ubuntu-latest
+    env:
+      ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
     outputs:
       new_tag: ${{ steps.github_tag_action.outputs.new_tag }}
       changelog: ${{ steps.github_tag_action.outputs.changelog }}
@@ -25,6 +27,8 @@ jobs:
   deploy:
     name: Deploy
     runs-on: ubuntu-latest
+    env:
+      ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
     needs: bump_version
     if: ${{ needs.bump_version.outputs.new_tag != null }}
     steps:

@@ -69,7 +69,7 @@
     "symbol": "YFI",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://1inch.exchange/assets/tokens/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png"
   },
   {
     "name": "Synthetix USD on xDai",
@@ -374,6 +374,22 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://assets.coingecko.com/coins/images/11223/small/Brick.png"
+  },
+  {
+    "name": "Aave Token on xDai",
+    "address": "0xDF613aF6B44a31299E48131e9347F034347E2F00",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9/logo.png"
+  },
+  {
+    "name": "renZEC on xDai",
+    "address": "0x5F2852AFd20C39849f6f56F4102b8c29Ee141ADD",
+    "symbol": "renZEC",
+    "decimals": 8,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1C5db575E2Ff833E46a2E9864C22F4B22E0B37C2/logo.png"
   },
   {
     "name": "Wrapped ETHO",

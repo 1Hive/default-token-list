@@ -422,5 +422,13 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://user-images.githubusercontent.com/72521363/95662995-2c55f300-0b33-11eb-90f9-4b1fe6c4097f.png"
+  },
+  {
+    "name": "xDankBillz",
+    "address": "0xDaADd8D96D01e47ee5E4eAFEcF14cbe46909f335",
+    "symbol": "xdbx",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x00763473e9d7c82f38Ed43F021e2558D7422AD8/logo.png"
   }
 ]

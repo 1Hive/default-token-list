@@ -430,5 +430,13 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x00763473e9d7c82f38Ed43F021e2558D7422AD8/logo.png"
+  },
+  {
+    "name": "ATS on xdaichain",
+    "address": "0x85886F6e9458290e7d267cB79A61c0CD7c505447",
+    "symbol": "xATS",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/sigma1/master/sigma1_xats_on_xdaichain_icon.svg"
   }
 ]

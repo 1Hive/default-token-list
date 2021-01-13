@@ -438,5 +438,13 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/sigma1/master/sigma1_xats_on_xdaichain_icon.svg"
+  },
+  {
+    "name": "Badger on xDai",
+    "address": "0xdfc20AE04ED70bd9c7D720F449eEDAe19F659D65",
+    "symbol": "BADGER",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/Badger-Finance/badger-system/master/images/badger-logo.png"
   }
 ]

@@ -17,6 +17,8 @@ Token Name (from contract):
 Token Decimals (from contract): 
 Token Symbol (from contract): 
 Honeyswap Pair Address of Token: 
+Token image (logoURI):
+
 
 Link to the official homepage of token:
 Link to CoinMarketCap or CoinGecko page of token (if any): 

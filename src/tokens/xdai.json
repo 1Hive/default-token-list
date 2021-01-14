@@ -454,5 +454,13 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x960b236A07cf122663c4303350609A66A7B288C0/logo.png"
+  },
+  {
+    "name": "Autopia Token on xDai",
+    "address": "0xcaE40062a887581A3d1661d0AC2b481c32e3E938",
+    "symbol": "AUT",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://autopia.co/images/autopia-200-200.jpg"
   }
 ]

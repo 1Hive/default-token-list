@@ -202,7 +202,7 @@
   {
     "name": "Aragon Network Token on xDai",
     "address": "0x437a044fb4693890e61d2c1c88e3718e928b8e90",
-    "symbol": "ANT",
+    "symbol": "ANTv1",
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x960b236A07cf122663c4303350609A66A7B288C0/logo.png"
@@ -430,5 +430,37 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x00763473e9d7c82f38Ed43F021e2558D7422AD8/logo.png"
+  },
+  {
+    "name": "ATS on xdaichain",
+    "address": "0x85886F6e9458290e7d267cB79A61c0CD7c505447",
+    "symbol": "xATS",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/sigma1/master/sigma1_xats_on_xdaichain_icon.svg"
+  },
+  {
+    "name": "Badger on xDai",
+    "address": "0xdfc20AE04ED70bd9c7D720F449eEDAe19F659D65",
+    "symbol": "BADGER",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/Badger-Finance/badger-system/master/images/badger-logo.png"
+  },
+  {
+    "name": "Aragon Network Token on xDai v2",
+    "address": "0x6EECeab954EFDBd7A8a8D9387bC719959B04b9CA",
+    "symbol": "ANTv2",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x960b236A07cf122663c4303350609A66A7B288C0/logo.png"
+  },
+  {
+    "name": "Autopia Token on xDai",
+    "address": "0xcaE40062a887581A3d1661d0AC2b481c32e3E938",
+    "symbol": "AUT",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://autopia.co/images/autopia-200-200.jpg"
   }
 ]

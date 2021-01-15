@@ -53,10 +53,7 @@ jobs:
 
       - name: Bump package version
         run: npm version ${{ needs.bump_version.outputs.new_tag }}
-
-      - name: Build list
-        run: npm run build
-
+  
       - name: Push changes
         uses: ad-m/github-push-action@40bf560936a8022e68a3c00e7d2abefaf01305a6
         with:
@@ -66,6 +63,9 @@ jobs:
         uses: JS-DevTools/npm-publish@18351461ae08dde235c0ccee0633ec905f0b9a52
         with:
           token: ${{ secrets.NPM_TOKEN }}
+
+      - name: Build list
+        run: npm run build
 
       - name: Pin to IPFS (Pinata)
         id: upload

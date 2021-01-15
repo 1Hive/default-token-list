@@ -202,7 +202,7 @@
   {
     "name": "Aragon Network Token on xDai (prefork)",
     "address": "0x437a044fb4693890e61d2c1c88e3718e928b8e90",
-    "symbol": "ANT",
+    "symbol": "ANT (prefork)",
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x960b236A07cf122663c4303350609A66A7B288C0/logo.png"

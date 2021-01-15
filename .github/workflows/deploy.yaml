@@ -1,7 +1,10 @@
 name: Deploy
 on:
+  push:
+    branches: 
+      - master
   # manual trigger
-  workflow_dispatch:
+  #workflow_dispatch:
 
 jobs:
   bump_version:

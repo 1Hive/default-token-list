@@ -478,5 +478,13 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://unifty.io/unifty3.png"
+  },
+  {
+    "name": "COLD TRUTH CASH",
+    "address": "0xdbcadE285846131a5e7384685EADDBDFD9625557",
+    "symbol": "COLD",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://user-images.githubusercontent.com/77219460/105215847-eda9ed00-5ba5-11eb-83a4-f8ea6b9bd7bb.png"
   }
 ]

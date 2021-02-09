@@ -518,5 +518,541 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/zrx_28.png?v=3"
+  },
+  {
+    "name": "Trips on xDai",
+    "address": "0x479e32cDFF5F216f93060700C711D1cC8E811a6B",
+    "symbol": "TRIPS",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/trips_32.png"
+  },
+  {
+    "name": "Energy Web Token Bridged on xDai",
+    "address": "0x6A8cb6714B1EE5b471a7D2eC4302cb4f5Ff25eC2",
+    "symbol": "EWTB",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/energywebtokenbridged_32.png"
+  },
+  {
+    "name": "SushiToken on xDai",
+    "address": "0x2995D1317DcD4f0aB89f4AE60F3f020A4F17C7CE",
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/sushiswap_32.png"
+  },
+  {
+    "name": "LUKSO Token on xDai",
+    "address": "0x79CF2029717E2E78C8927F65F079Ab8dA21781Ee",
+    "symbol": "LYXe",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/luksotoken_32.png"
+  },
+  {
+    "name": "Graph Token on xDai",
+    "address": "0xFAdc59D012Ba3c110B08A15B7755A5cb7Cbe77D7",
+    "symbol": "GRT",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/TheGraph_32.png"
+  },
+  {
+    "name": "Base Protocol on xDai",
+    "address": "0x699D001ef13B15335193bC5FAd6CFC6747eeE8BE",
+    "symbol": "BASE",
+    "decimals": 9,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/baseprotocol_32.png"
+  },
+  {
+    "name": "Celsius on xDai",
+    "address": "0x0aCD91f92Fe07606ab51EA97d8521E29D110fD09",
+    "symbol": "CEL",
+    "decimals": 4,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/celsiustoken1_28.png"
+  },
+  {
+    "name": "Cream on xDai",
+    "address": "0x1939D3431CF0E44B1d63b86e2cE489E5a341B1Bf",
+    "symbol": "CREAM",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/CreamFinance_32.png"
+  },
+  {
+    "name": "Testa on xDai",
+    "address": "0x16AFe6E6754FA3694afD0Ce48f4Bea102Efacc17",
+    "symbol": "TESTA",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/testa_32.png"
+  },
+  {
+    "name": "AriesFinancial on xDai",
+    "address": "0xc81c785653D97766b995D867CF91F56367742eAC",
+    "symbol": "AFI",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/ariesfinancial_32.png"
+  },
+  {
+    "name": "JPY Coin on xDai",
+    "address": "0x417602f4fbdd471A431Ae29fB5fe0A681964C11b",
+    "symbol": "JPYC",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/jpycoin_32.png"
+  },
+  {
+    "name": "Rarible on xDai",
+    "address": "0x4bE85ACC1cd711F403dC7BdE9e6caDfC5A94744b",
+    "symbol": "RARI",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/rarible_32.png"
+  },
+  {
+    "name": "Yield on xDai",
+    "address": "0xA2FEc95B3d3feCb39098E81f108533E1abF22CcF",
+    "symbol": "YLD",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/yieldapp_32.png"
+  },
+  {
+    "name": "Phala on xDai",
+    "address": "0x7eA8aF7301b763451B7FB25F8Fc2406819A7E36f",
+    "symbol": "PHA",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/phala_32.png?v=4"
+  },
+  {
+    "name": "renBTC on xDai",
+    "address": "0x4A88248BAa5b39bB4A9CAa697Fb7f8ae0C3f0ddB",
+    "symbol": "renBTC",
+    "decimals": 8,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/renbtc_32.png"
+  },
+  {
+    "name": "Robonomics on xDai",
+    "address": "0xf54b47B00B6916974c73B81B7d9929a4f443DB49",
+    "symbol": "XRT",
+    "decimals": 9,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/robonomics_28.png"
+  },
+  {
+    "name": "Ampleforth on xDai",
+    "address": "0xC84DD5B971521B6C9fA5E10d25E6428b19710e05",
+    "symbol": "AMPL",
+    "decimals": 9,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/ampleforth_32.png"
+  },
+  {
+    "name": "Matic Token on xDai",
+    "address": "0x7122d7661c4564b7C6Cd4878B06766489a6028A2",
+    "symbol": "MATIC",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/matictoken_28.png"
+  },
+  {
+    "name": "Reserve Rights on xDai",
+    "address": "0x5A87eaC5642BfEd4e354Ee8738DACd298E07D1Af",
+    "symbol": "RSR",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/reserverights_32.png"
+  },
+  {
+    "name": "Energi on xDai",
+    "address": "0x0dCfEd2C3041e66b2D8c4Ea39782c60355716316",
+    "symbol": "NRGE",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/energi_32.png"
+  },
+  {
+    "name": "Akropolis on xDai",
+    "address": "0xD27E1ECC4748F42e052331BeA917D89bEB883fc3",
+    "symbol": "AKRO",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/Akropolis_32.png"
+  },
+  {
+    "name": "BandToken on xDai",
+    "address": "0xe154A435408211AC89757B76C4FbE4Dc9ED2Ef27",
+    "symbol": "BAND",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/bandtoken_32.png"
+  },
+  {
+    "name": "Basic Attention Token on xDai",
+    "address": "0xC6cC63f4AA25BBD4453eB5F3a0DfE546feF9b2f3",
+    "symbol": "BAT",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/bat.png"
+  },
+  {
+    "name": "MEME on xDai",
+    "address": "0x512a2Eb0277573ae9Be0d48c782590b624048fdF",
+    "symbol": "MEME",
+    "decimals": 8,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/meme_32.png"
+  },
+  {
+    "name": "Ocean Token on xDai",
+    "address": "0x51732a6fC4673d1aCca4c047F5465922716508Ad",
+    "symbol": "OCEAN",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/oceantoken_28.png"
+  },
+  {
+    "name": "Rocket Pool on xDai",
+    "address": "0x2F0E755Efe6b58238A67DB420Ff3513Ec1fb31eF",
+    "symbol": "RPL",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/Rocketpool_32.png"
+  },
+  {
+    "name": "Unilayer on xDai",
+    "address": "0x8fBEDD16904B561e30ea402F459900E9D90614af",
+    "symbol": "LAYER",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/unilayer_32.png"
+  },
+  {
+    "name": "Darwinia Network Native Token on xDai",
+    "address": "0x1479ebFe327B62bFF255C0749a242748D3e7347a",
+    "symbol": "RING",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/darwinia_32.png"
+  },
+  {
+    "name": "Davincij15 Token on xDai",
+    "address": "0x7C16c63684D86BaCC52e8793B08a5a1A3cB1BA1e",
+    "symbol": "DJ15",
+    "decimals": 9,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/davincicode_32.png"
+  },
+  {
+    "name": "BaoToken on xDai",
+    "address": "0x82dFe19164729949fD66Da1a37BC70dD6c4746ce",
+    "symbol": "BAO",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/bao_32.png"
+  },
+  {
+    "name": "Decentralized Insurance Protocol on xDai",
+    "address": "0x48b1B0d077b4919b65b4E4114806dD803901E1D9",
+    "symbol": "DIP",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/etherisc_28.png"
+  },
+  {
+    "name": "HoloToken on xDai",
+    "address": "0x346b2968508d32f0192cD7a60Ef3D9C39a3cF549",
+    "symbol": "HOT",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/holo_28.png"
+  },
+  {
+    "name": "Metronome on xDai",
+    "address": "0xB4B6f80d8E573e9867c90163BFdb00E29d92716a",
+    "symbol": "MET",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/metronome_28.png"
+  },
+  {
+    "name": "Sora Token on xDai",
+    "address": "0x5bbfBfB123B72A255504BE985bd2B474e481e866",
+    "symbol": "SORA",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/soratoken_32.png"
+  },
+  {
+    "name": "Streamr DATAcoin on xDai",
+    "address": "0x796879025A627d34042E3eDd2E239E75ba4445e6",
+    "symbol": "DATA",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/streamr2_28.png"
+  },
+  {
+    "name": "SwissBorg Token on xDai",
+    "address": "0x76eaFffA1873a8aCd43864B66A728bd873c5E08a",
+    "symbol": "CHSB",
+    "decimals": 8,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/swissborg_28_3.png"
+  },
+  {
+    "name": "BlackDragon Token on xDai",
+    "address": "0x778aa03021B0CD2b798b0b506403e070125D81C9",
+    "symbol": "BDT",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/blackdragon_32.png"
+  },
+  {
+    "name": "bns.finance on xDai",
+    "address": "0xbDB90BDAdae84Af0b07abf4cEFcC7989F909f9bD",
+    "symbol": "BNSD",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/bnsd_32.png"
+  },
+  {
+    "name": "BNS Token on xDai",
+    "address": "0xEC84A3bB48D70553C2599AC2d0Db07b2DFdF6364",
+    "symbol": "BNS",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/bns_32.png"
+  },
+  {
+    "name": "DAOstack on xDai",
+    "address": "0x12daBe79cffC1fdE82FCd3B96DBE09FA4D8cd599",
+    "symbol": "GEN",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/daostack1_28.png"
+  },
+  {
+    "name": "DeFireX DAI on xDai",
+    "address": "0x1319067e82F0b9981F19191E1C08bb6E6e055DD3",
+    "symbol": "DDAI",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/defirex_32.png"
+  },
+  {
+    "name": "Enjin Coin on xDai",
+    "address": "0x5A757F0BcAdFDb78651B7bDBe67e44e8Fd7F7f6b",
+    "symbol": "ENJ",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/enjin_28_2.png"
+  },
+  {
+    "name": "Ethereum Meta on xDai",
+    "address": "0x9bD5E0ce813d5172859b0b70Ff7Bb3C325CEE913",
+    "symbol": "ETHM",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/ethereummeta_32.png"
+  },
+  {
+    "name": "Livepeer Token on xDai",
+    "address": "0x7DB0be7A41b5395268e065776e800e27181C81AB",
+    "symbol": "LPT",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/livepeer_28.png"
+  },
+  {
+    "name": "LoopringCoin V2 on xDai",
+    "address": "0x2bE73bFeEC620aa9B67535A4D3827bB1e29436D1",
+    "symbol": "LRC",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/lrc_32.png"
+  },
+  {
+    "name": "Pundi X Token on xDai",
+    "address": "0x26dD64bdCB2FaF4F7E49A73145752e8d9cb34C94",
+    "symbol": "NPXS",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/pundix-28.png"
+  },
+  {
+    "name": "Status Network Token on xDai",
+    "address": "0x044F6ae3aEF34fdB8FdDc7c05F9cC17F19Acd516",
+    "symbol": "SNT",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/status.png"
+  },
+  {
+    "name": "TrueUSD on xDai",
+    "address": "0xB714654e905eDad1CA1940b7790A8239ece5A9ff",
+    "symbol": "TUSD",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/trueusd_32.png"
+  },
+  {
+    "name": "TrustSwap Token on xDai",
+    "address": "0xEAaccE3E5bCC10FB32c2553f8d6Fc4C3888ffDaD",
+    "symbol": "SWAP",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/trustswap_32.png"
+  },
+  {
+    "name": "Aave Interest bearing DAI on xDai",
+    "address": "0xbcfB2B889F7bAa29Dd7A7B447b6C87Aca572F4f4",
+    "symbol": "ADAI",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/Aave_aDAI_32.png"
+  },
+  {
+    "name": "AllianceBlock Token on xDai",
+    "address": "0x3581cc6A09DE85e9B91Ef93F2a5eF837706b84a5",
+    "symbol": "ALBT",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/allianceblocktoken_32.png?v=2"
+  },
+  {
+    "name": "Balancer on xDai",
+    "address": "0x7eF541E2a22058048904fE5744f9c7E4C57AF717",
+    "symbol": "BAL",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/Balancer_32.png"
+  },
+  {
+    "name": "Bancor Network Token on xDai",
+    "address": "0x9a495a281D959192343B0e007284bf130bd05F86",
+    "symbol": "BNT",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/bancor_32.png"
+  },
+  {
+    "name": "CelerToken on xDai",
+    "address": "0x248c54B3fc3bC8b20D0CDEE059E17C67e4a3299d",
+    "symbol": "CELR",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/celer_28.png"
+  },
+  {
+    "name": "Contribute on xDai",
+    "address": "0xff0Ce179a303F26017019acf78B951cB743B8D9b",
+    "symbol": "TRIB",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/contribute_32.png?v=2"
+  },
+  {
+    "name": "iEx.ec Network Token on xDai",
+    "address": "0x60e668f54106222adC1Da80c169281B3355B8e5D",
+    "symbol": "RLC",
+    "decimals": 9,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/iexec_28.png"
+  },
+  {
+    "name": "MCDEX Token on xDai",
+    "address": "0xd361c1FD663d8f2dc36ae07FF6F3623532cAbdD3",
+    "symbol": "MCB",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/mcdextoken_32.png"
+  },
+  {
+    "name": "MoonToken on xDai",
+    "address": "0x5b917D4fb9B27591353211c32F1552A527987AFC",
+    "symbol": "MOON",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/moonswap_32.png"
+  },
+  {
+    "name": "Nexo on xDai",
+    "address": "0x26DC03E492763068CCfE7C39B93A22442807C360",
+    "symbol": "NEXO",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/nexo_32.png"
+  },
+  {
+    "name": "Pinakion on xDai",
+    "address": "0x37b60f4E9A31A64cCc0024dce7D0fD07eAA0F7B3",
+    "symbol": "PNK",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/kelros_28.png"
+  },
+  {
+    "name": "PolkastarterToken on xDai",
+    "address": "0x75481A953a4bBa6B3C445907dB403E4b5D222174",
+    "symbol": "POLS",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/polkastarter_32.png"
+  },
+  {
+    "name": "PowerTrade Fuel Token on xDai",
+    "address": "0x53ef00be819A062533a0E699077c621a28EADEd1",
+    "symbol": "PTF",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/powertrade_32.png"
+  },
+  {
+    "name": "StorjToken on xDai",
+    "address": "0xBc650b9cC12dB4da14b2417c60CCd6F4d77c3998",
+    "symbol": "STORJ",
+    "decimals": 8,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/storj_32.png"
+  },
+  {
+    "name": "Synth sETH on xDai",
+    "address": "0x8F365b41B98Fe84aCB287540b4B4AB633e07EDb2",
+    "symbol": "SETH",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/SynthetixsETH_32.png"
+  },
+  {
+    "name": "tBTC on xDai",
+    "address": "0x0811E451447D5819976a95a02f130c3b00D59346",
+    "symbol": "TBTC",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/tbtc_32.png"
+  },
+  {
+    "name": "VectorspaceAI on xDai",
+    "address": "0x020Ae8FC1c19f4d1312Cf6a72291f52849791E7C",
+    "symbol": "VXV",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/Vectorspace_32.png"
+  },
+  {
+    "name": "Wrapped NXM on xDai",
+    "address": "0x01e92E3791f8c1D6599B2F80A4bFF9b43949aC7C",
+    "symbol": "wNXM",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/nxm_32.png"
   }
 ]

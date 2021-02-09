@@ -432,14 +432,6 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x00763473e9d7c82f38Ed43F021e2558D7422AD8/logo.png"
   },
   {
-    "name": "ATS on xdaichain",
-    "address": "0x85886F6e9458290e7d267cB79A61c0CD7c505447",
-    "symbol": "xATS",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/lab10-coop/sigma1/master/sigma1_xats_on_xdaichain_icon.svg"
-  },
-  {
     "name": "Badger on xDai",
     "address": "0xdfc20AE04ED70bd9c7D720F449eEDAe19F659D65",
     "symbol": "BADGER",
@@ -486,5 +478,37 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://user-images.githubusercontent.com/77219460/105215847-eda9ed00-5ba5-11eb-83a4-f8ea6b9bd7bb.png"
+  },
+  {
+    "name": "Freedom Reserve on xDai",
+    "address": "0x270DE58F54649608D316fAa795a9941b355A2Bd0",
+    "symbol": "FR",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://freedomreserv.eth.link/img/freedomcoin400x400.png"
+  },
+  {
+    "name": "Trace Token on xDai",
+    "address": "0xEddd81E0792E764501AaE206EB432399a0268DB5",
+    "symbol": "TRAC",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/origintrail_28.png"
+  },
+  {
+    "name": "Panvala pan on xDai",
+    "address": "0x981fB9BA94078a2275A8fc906898ea107B9462A8",
+    "symbol": "PAN",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/9543/small/pan-logo.png"
+  }, 
+  {
+    "name": "Cheemscoin",
+    "address": "0xEaF7B3376173DF8BC0C22Ad6126943cC8353C1Ee",
+    "symbol": "CHEEMS",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://kowasaur.github.io/cheemscoin/cheemscoin.png"
   }
 ]

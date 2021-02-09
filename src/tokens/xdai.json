@@ -510,5 +510,13 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://kowasaur.github.io/cheemscoin/cheemscoin.png"
+  },
+  {
+    "name": "0x Protocol Token on xDai",
+    "address": "0x226bCf0e417428a25012d0fA2183d37f92bCeDF6",
+    "symbol": "ZRX",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/zrx_28.png?v=3"
   }
 ]

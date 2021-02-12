@@ -1062,5 +1062,13 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/UniCrypt_32.png"
+  },
+  {
+    "name": "BTCCB",
+    "address": "0xB2aE7983A8142401d45546aAb981e5fbff520991",
+    "symbol": "BTCCB",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://btccircuitbreaker.finance/btccb-logo.png"
   }
 ]

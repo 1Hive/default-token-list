@@ -85,7 +85,7 @@
     "symbol": "OMG",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://1inch.exchange/assets/tokens/0xd26114cd6ee289accf82350c8d8487fedb8a0c07.png"
+    "logoURI": "https://etherscan.io/token/images/OMGNetwork_32.png"
   },
   {
     "name": "Gnosis on xDai",
@@ -141,7 +141,7 @@
     "symbol": "POA20",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://1inch.exchange/assets/tokens/0x6758b7d441a9739b98552b373703d8d3d14f9e62.png"
+    "logoURI": "https://etherscan.io/token/images/poa_28_2.png"
   },
   {
     "name": "Honey",

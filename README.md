@@ -17,3 +17,6 @@ We do not review token addition requests in any particular order, and we do not
 guarantee that we will review your request to add the token to the default list. 
 
 
+### Deploy new version
+Use feat() & patch() in your commit to dump the version
+Once the PR is merge -> Go to the actions tab in the repository, and trigger the deploy action

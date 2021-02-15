@@ -1070,5 +1070,13 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://btccircuitbreaker.finance/btccb-logo.png"
+  },
+  {
+    "name": "XionGlobal Token",
+    "address": "0xf1738912ae7439475712520797583ac784ea9033",
+    "symbol": "XGT",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://xion.finance/images/xgt_icon.png"
   }
 ]

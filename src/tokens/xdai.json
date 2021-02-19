@@ -1078,5 +1078,21 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://xion.finance/images/xgt_icon.png"
+  },
+  {
+    "name": "Audius on xDai",
+    "address": "0x8A95ea379E1Fa4C749dd0A7A21377162028C479e",
+    "symbol": "AUDIO",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://user-images.githubusercontent.com/79154451/108109600-68293800-7092-11eb-8235-db5df1e0ab7e.png"
+  },
+  {
+    "name": "UNCL on xDai",
+    "address": "0x703120F2f2011a0D03A03a531Ac0e84e81F15989",
+    "symbol": "UNCL",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/unicrypt-uncl_32.png"
   }
 ]

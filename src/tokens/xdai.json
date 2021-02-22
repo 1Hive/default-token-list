@@ -1094,5 +1094,21 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/unicrypt-uncl_32.png"
-  }
+  },
+    {
+    "name": "Agave ALVIN",
+    "address": "0x3008Ff3e688346350b0C07B8265d256dddD97215",
+    "symbol": "ALVIN",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/ShenaniganDApp/DrippStaking/master/tokens/ALVIN.png"
+  },
+    {
+    "name": "Shenanigan SHWEATPANTS",
+    "address": "0x898e8897437d7245a2d09a29B2Cd06a2C1ca388b",
+    "symbol": "SHWEATPANTS",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/ShenaniganDApp/DrippStaking/master/tokens/SHWEATPANTS.png"
+  }   
 ]

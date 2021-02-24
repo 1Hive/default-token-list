@@ -24,3 +24,4 @@ example:
 feat(add): xDAI
 ```
 Once the PR is merge -> Go to the actions tab in the repository, and trigger the deploy action.
+

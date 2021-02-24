@@ -173,7 +173,7 @@
     "symbol": "PRTCLE",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/ShenaniganDApp/wiki/master/images/Particle.png"
+    "logoURI": "https://raw.githubusercontent.com/ShenaniganDApp/scoreboard/master/assets/token.png"
   },
   {
     "name": "Wrapped XDAI",

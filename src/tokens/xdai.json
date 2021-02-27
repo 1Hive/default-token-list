@@ -80,7 +80,7 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51/logo.png"
   },
   {
-    "name": "OmiseGo on xDai",
+    "name": "OMGToken on xDai",
     "address": "0x8395F7123ba3FFAD52E7414433D825931C81C879",
     "symbol": "OMG",
     "decimals": 18,

@@ -80,7 +80,7 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51/logo.png"
   },
   {
-    "name": "OmiseGo on xDai",
+    "name": "OMGToken on xDai",
     "address": "0x8395F7123ba3FFAD52E7414433D825931C81C879",
     "symbol": "OMG",
     "decimals": 18,
@@ -428,8 +428,7 @@
     "address": "0xDaADd8D96D01e47ee5E4eAFEcF14cbe46909f335",
     "symbol": "xdbx",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x00763473e9d7c82f38Ed43F021e2558D7422AD8/logo.png"
+    "chainId": 100
   },
   {
     "name": "Badger on xDai",
@@ -1069,7 +1068,7 @@
     "symbol": "BTCCB",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://btccircuitbreaker.finance/btccb-logo.png"
+    "logoURI": "https://miro.medium.com/fit/c/164/164/1*Poxa2tacGDtg8A9sZdfJfA.jpeg"
   },
   {
     "name": "XionGlobal Token",
@@ -1125,5 +1124,53 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x3a97704a1b25f08aa230ae53b352e2e72ef52843/logo.png"
+  },
+  {
+    "name": "BLOCKMESH",
+    "address": "0xE7EF58d8180Cc269C6620dED3E6cc536A52E2ebD",
+    "symbol": "MESH",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/blockmeshio_28.png"
+  },
+  {
+    "name": "Standard on xDai",
+    "address": "0x3e33cF23073FD8d5aD1d48d1860a96C0D8E56193",
+    "symbol": "xMARK",
+    "decimals": 9,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x67c597624B17b16fb77959217360B7cD18284253/logo.png"
+  },
+  {
+    "name": "Seed on xDai",
+    "address": "0x2fd0c73Ad006407F0A96c984f06A9CE8415B094E",
+    "symbol": "xSEED",
+    "decimals": 9,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/seed_32.png"
+  },
+  {
+    "name": "McDonaldsCoin on xDai",
+    "address": "0xC577cDdABB7893cC2cA15eF4b5D5e5E13c3FeeD3",
+    "symbol": "MCDC",
+    "decimals": 2,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/mcdc_logo_200.png"
+  },
+  {
+    "name": "1INCH Token on xDai",
+    "address": "0x7f7440C5098462f833E123B44B8A03E1d9785BAb",
+    "symbol": "1INCH",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/1inch_32.png"
+  },
+  {
+    "name": "HOPR Token on xDai",
+    "address": "0xD057604A14982FE8D88c5fC25Aac3267eA142a08",
+    "symbol": "HOPR",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xf5581dfefd8fb0e4aec526be659cfab1f8c781da.png"
   }
 ]

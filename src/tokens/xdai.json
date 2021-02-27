@@ -1149,5 +1149,29 @@
     "decimals": 9,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/seed_32.png"
+  },
+  {
+    "name": "McDonaldsCoin on xDai",
+    "address": "0xC577cDdABB7893cC2cA15eF4b5D5e5E13c3FeeD3",
+    "symbol": "MCDC",
+    "decimals": 2,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/birdieearlybird/mcdc_assets/main/mcdc_logo_200.png"
+  },
+  {
+    "name": "1INCH Token on xDai",
+    "address": "0x7f7440C5098462f833E123B44B8A03E1d9785BAb",
+    "symbol": "1INCH",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/1inch_32.png"
+  },
+  {
+    "name": "HOPR Token on xDai",
+    "address": "0xD057604A14982FE8D88c5fC25Aac3267eA142a08",
+    "symbol": "HOPR",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xf5581dfefd8fb0e4aec526be659cfab1f8c781da.png"
   }
 ]

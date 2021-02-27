@@ -1125,5 +1125,29 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x3a97704a1b25f08aa230ae53b352e2e72ef52843/logo.png"
+  },
+  {
+    "name": "BLOCKMESH",
+    "address": "0xE7EF58d8180Cc269C6620dED3E6cc536A52E2ebD",
+    "symbol": "MESH",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/blockmeshio_28.png"
+  },
+  {
+    "name": "Standard on xDai",
+    "address": "0x3e33cF23073FD8d5aD1d48d1860a96C0D8E56193",
+    "symbol": "xMARK",
+    "decimals": 9,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x67c597624B17b16fb77959217360B7cD18284253/logo.png"
+  },
+  {
+    "name": "Seed on xDai",
+    "address": "0x2fd0c73Ad006407F0A96c984f06A9CE8415B094E",
+    "symbol": "xSEED",
+    "decimals": 9,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/seed_32.png"
   }
 ]

@@ -1099,13 +1099,27 @@
     "address": "0x3008Ff3e688346350b0C07B8265d256dddD97215",
     "symbol": "ALVIN",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x3008Ff3e688346350b0C07B8265d256dddD97215/logo.png"
+    "chainId": 100
   },
   {
     "name": "Shenanigan SHWEATPANTS",
     "address": "0x898e8897437d7245a2d09a29B2Cd06a2C1ca388b",
     "symbol": "SHWEATPANTS",
+    "decimals": 18,
+    "chainId": 100
+  },
+  {
+    "name": "Agave ALVIN v2",
+    "address": "0xf9bb1049378A3462E61Bba502530e5Ed62469925",
+    "symbol": "ALVINv2",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0xf9bb1049378A3462E61Bba502530e5Ed62469925/logo.png"
+  },
+  {
+    "name": "Shenanigan SHWEATPANTS v2",
+    "address": "0x73C6927063338170D794DC929253edb09f533B8d",
+    "symbol": "SHWEATPANTSv2",
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/ShenaniganDApp/DrippStaking/master/tokens/SHWEATPANTS.png"

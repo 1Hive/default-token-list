@@ -1099,7 +1099,8 @@
     "address": "0x3008Ff3e688346350b0C07B8265d256dddD97215",
     "symbol": "ALVIN",
     "decimals": 18,
-    "chainId": 100
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x3008Ff3e688346350b0C07B8265d256dddD97215/logo.png"
   },
   {
     "name": "Shenanigan SHWEATPANTS",

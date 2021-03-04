@@ -1105,7 +1105,7 @@
   {
     "name": "Shenanigan SHWEATPANTS v3",
     "address": "0x11c9f4c3e960cce4464e25a9fa5414ab72fc45ea",
-    "symbol": "SHWEATPANTSv3",
+    "symbol": "SHWEATPANTS",
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/ShenaniganDApp/DrippStaking/master/tokens/SHWEATPANTS.png"

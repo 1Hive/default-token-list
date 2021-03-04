@@ -1095,31 +1095,17 @@
     "logoURI": "https://etherscan.io/token/images/unicrypt-uncl_32.png"
   },
   {
-    "name": "Agave ALVIN",
-    "address": "0x3008Ff3e688346350b0C07B8265d256dddD97215",
+    "name": "Agave ALVIN v3",
+    "address": "0x50dbde932a94b0c23d27cdd30fbc6b987610c831",
     "symbol": "ALVIN",
-    "decimals": 18,
-    "chainId": 100
-  },
-  {
-    "name": "Shenanigan SHWEATPANTS",
-    "address": "0x898e8897437d7245a2d09a29B2Cd06a2C1ca388b",
-    "symbol": "SHWEATPANTS",
-    "decimals": 18,
-    "chainId": 100
-  },
-  {
-    "name": "Agave ALVIN v2",
-    "address": "0xf9bb1049378A3462E61Bba502530e5Ed62469925",
-    "symbol": "ALVINv2",
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0xf9bb1049378A3462E61Bba502530e5Ed62469925/logo.png"
   },
   {
-    "name": "Shenanigan SHWEATPANTS v2",
-    "address": "0x73C6927063338170D794DC929253edb09f533B8d",
-    "symbol": "SHWEATPANTSv2",
+    "name": "Shenanigan SHWEATPANTS v3",
+    "address": "0x11c9f4c3e960cce4464e25a9fa5414ab72fc45ea",
+    "symbol": "SHWEATPANTS",
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/ShenaniganDApp/DrippStaking/master/tokens/SHWEATPANTS.png"
@@ -1187,5 +1173,21 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xf5581dfefd8fb0e4aec526be659cfab1f8c781da.png"
+  },
+  {
+    "name": "Rare Coin",
+    "address": "0xCF740AC463098E442B31A5E88F4b359B30255616",
+    "symbol": "RARE",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://affinityharmonics.s3.ca-central-1.amazonaws.com/Cloud/rare-logo-multi.png"
+  },
+  {
+    "name": "prophet.finance on xDai",
+    "address": "0xa9e5cd4efc86c01fae9a9fcd6e8669b97c92a937",
+    "symbol": "PROPHET",
+    "decimals": 9,
+    "chainId": 100,
+    "logoURI": "https://pbs.twimg.com/profile_images/1329880689135718401/24hXwpqd_400x400.jpg"
   }
 ]

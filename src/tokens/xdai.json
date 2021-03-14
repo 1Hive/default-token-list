@@ -1145,7 +1145,7 @@
   {
     "name": "Seed on xDai",
     "address": "0x2fd0c73Ad006407F0A96c984f06A9CE8415B094E",
-    "symbol": "xSEED ",
+    "symbol": "xSEED",
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/seed_32.png"

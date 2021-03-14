@@ -1,4 +1,4 @@
-const fetch = require('node-fetch')
+/*const fetch = require('node-fetch')
 const utils = require('web3-utils')
 
 async function getLogo(xdaiAddr) {
@@ -39,3 +39,4 @@ async function fetchMissing() {
 }
 
 fetchMissing().then(x => console.log(JSON.stringify(x, null, '  ')))
+*/

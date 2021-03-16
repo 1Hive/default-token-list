@@ -793,7 +793,7 @@
   {
     "name": "Streamr DATA on xDai",
     "address": "0xE4a2620edE1058D61BEe5F45F6414314fdf10548",
-    "symbol": "DATA",
+    "symbol": "DATA ",
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/streamr2_28.png"

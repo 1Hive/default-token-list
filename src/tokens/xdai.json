@@ -209,8 +209,8 @@
   },
   {
     "name": "Levin",
-    "address": "0x64e8a115ec254a6a5949dbc5801a8ccf3ae4f72f",
-    "symbol": "LVN",
+    "address": "0x1698cD22278ef6E7c0DF45a8dEA72EDbeA9E42aa",
+    "symbol": "LEVIN",
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/Levinswap/default-token-list/master/src/assets/xdai/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png"

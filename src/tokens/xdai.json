@@ -1229,5 +1229,13 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://daohaus.club/static/media/haus__icon.439c0f8e.png"
+  },
+   {
+    "name": "Minerva Wallet SuperToken",
+    "address": "0x63e62989D9EB2d37dfDB1F93A22f063635b07d51",
+    "symbol": "MIVA",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://dev.lab10.io/minerva/MIVA_Logo.svg"
   }
 ]

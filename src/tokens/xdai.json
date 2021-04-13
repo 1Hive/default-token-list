@@ -1245,5 +1245,13 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+  },
+  {
+    "name": "Wrapped BNB from BSC",
+    "address": "0xCa8d20f3e0144a72C6B5d576e9Bd3Fd8557E2B04",
+    "symbol": "WBNB",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://bscscan.com/token/images/binance_32.png"
   }
 ]

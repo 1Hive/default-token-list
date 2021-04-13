@@ -1253,5 +1253,13 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://bscscan.com/token/images/binance_32.png"
+  },
+  {
+    "name": "Perpetual on xDai",
+    "address": "0x7ecF26cd9A36990b8ea477853663092333f59979",
+    "symbol": "PERP",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/12381/large/token_2000x2000.png?1615791204"
   }
 ]

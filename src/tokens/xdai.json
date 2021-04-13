@@ -1237,5 +1237,54 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://dev.lab10.io/minerva/MIVA_Logo.svg"
+  },
+  {
+    "name": "Dai Token from BSC",
+    "address": "0xFc8B2690F66B46fEC8B3ceeb95fF4Ac35a0054BC",
+    "symbol": "bDAI",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+  },
+  {
+    "name": "Wrapped BNB from BSC",
+    "address": "0xCa8d20f3e0144a72C6B5d576e9Bd3Fd8557E2B04",
+    "symbol": "WBNB",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://bscscan.com/token/images/binance_32.png"
+  },
+  {
+    "name": "Perpetual on xDai",
+    "address": "0x7ecF26cd9A36990b8ea477853663092333f59979",
+    "symbol": "PERP",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/12381/large/token_2000x2000.png?1615791204"
+  },
+  {
+    "name": "AlbCoin from Ethereum",
+    "address": "0xfb23CfD35046466FdBA7f73dC2FcCb5b17ABf1Aa",
+    "symbol": "ALBC",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/albcoin_32.png"
+  },
+  {
+    "name": "DXdao from Ethereum",
+    "address": "0xb90D6bec20993Be5d72A5ab353343f7a0281f158",
+    "symbol": "DXD",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/5589.png"
+  },
+  {
+    "name": "Adept Coin Governance from Ethereum",
+    "address": "0x5f1f81de1d21b97a5d0d5d62d89bde9ddec27325",
+    "symbol": "AC",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://adept.camp/wp-content/uploads/2020/11/cropped-comingoutofblack.png"
   }
+
 ]

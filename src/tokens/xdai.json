@@ -1237,5 +1237,13 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://dev.lab10.io/minerva/MIVA_Logo.svg"
+  },
+  {
+    "name": "Dai Token from BSC",
+    "address": "0xFc8B2690F66B46fEC8B3ceeb95fF4Ac35a0054BC",
+    "symbol": "bDAI",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
   }
 ]

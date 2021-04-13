@@ -1277,5 +1277,14 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/5589.png"
+  },
+  {
+    "name": "Adept Coin Governance from Ethereum",
+    "address": "0x5f1f81de1d21b97a5d0d5d62d89bde9ddec27325",
+    "symbol": "AC",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://adept.camp/wp-content/uploads/2020/11/cropped-comingoutofblack.png"
   }
+
 ]

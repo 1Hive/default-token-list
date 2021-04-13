@@ -1261,5 +1261,13 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://assets.coingecko.com/coins/images/12381/large/token_2000x2000.png?1615791204"
+  },
+  {
+    "name": "AlbCoin on xDai",
+    "address": "0xfb23CfD35046466FdBA7f73dC2FcCb5b17ABf1Aa",
+    "symbol": "ALBC",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/albcoin_32.png"
   }
 ]

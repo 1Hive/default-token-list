@@ -1293,5 +1293,13 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://affinityharmonics.s3.ca-central-1.amazonaws.com/Cloud/rare-logo.png"
+  },
+   {
+    "name": "Own a fraction",
+    "address": "0x2bF2ba13735160624a0fEaE98f6aC8F70885eA61",
+    "symbol": "FRACTION",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://fraction.fyi/i/FRACTION-TokenIcon.svg"
   }
 ]

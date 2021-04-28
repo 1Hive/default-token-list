@@ -1308,5 +1308,13 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://hiveshares.finance/gfx/Logo.jpg"
+  },
+  {
+    "name": "BUSD Token from BSC",
+    "address": "0xdd96B45877d0E8361a4DDb732da741e97f3191Ff",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://bscscan.com/token/images/busd_32.png"
   }
 ]

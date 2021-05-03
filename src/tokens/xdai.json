@@ -508,7 +508,7 @@
     "symbol": "CHEEMS",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://kowasaur.github.io/cheemscoin/cheemscoin.png"
+    "logoURI": "https://cheemsco.in/cheemscoinSmall.png"
   },
   {
     "name": "0x Protocol Token on xDai",
@@ -1211,8 +1211,7 @@
     "address": "0xcF9Dc2de2A67d7db1A7171e3b8456D2171E4da75",
     "symbol": "LTI",
     "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/layer2index/uniswap-tokenlist/bfea3ae40a6deda5c71e783a757d5d102566ccbc/assets/managers/lti.svg"
+    "chainId": 100
   },
   {
     "name": "DefiPulse Index from Ethereum",
@@ -1229,5 +1228,93 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://daohaus.club/static/media/haus__icon.439c0f8e.png"
+  },
+  {
+    "name": "Minerva Wallet SuperToken",
+    "address": "0x63e62989D9EB2d37dfDB1F93A22f063635b07d51",
+    "symbol": "MIVA",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://minerva.digital/i/MIVA-Token_200x200.png"
+  },
+  {
+    "name": "Dai Token from BSC",
+    "address": "0xFc8B2690F66B46fEC8B3ceeb95fF4Ac35a0054BC",
+    "symbol": "bDAI",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+  },
+  {
+    "name": "Wrapped BNB from BSC",
+    "address": "0xCa8d20f3e0144a72C6B5d576e9Bd3Fd8557E2B04",
+    "symbol": "WBNB",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://bscscan.com/token/images/binance_32.png"
+  },
+  {
+    "name": "Perpetual on xDai",
+    "address": "0x7ecF26cd9A36990b8ea477853663092333f59979",
+    "symbol": "PERP",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/12381/large/token_2000x2000.png?1615791204"
+  },
+  {
+    "name": "AlbCoin from Ethereum",
+    "address": "0xfb23CfD35046466FdBA7f73dC2FcCb5b17ABf1Aa",
+    "symbol": "ALBC",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/albcoin_32.png"
+  },
+  {
+    "name": "DXdao from Ethereum",
+    "address": "0xb90D6bec20993Be5d72A5ab353343f7a0281f158",
+    "symbol": "DXD",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/5589.png"
+  },
+  {
+    "name": "Adept Coin Governance from Ethereum",
+    "address": "0x5f1f81de1d21b97a5d0d5d62d89bde9ddec27325",
+    "symbol": "AC",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://adept.camp/wp-content/uploads/2020/11/cropped-comingoutofblack.png"
+  },
+  {
+    "name": "Rare Coin v2",
+    "address": "0x57e93BB58268dE818B42E3795c97BAD58aFCD3Fe",
+    "symbol": "RAREv2",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://affinityharmonics.s3.ca-central-1.amazonaws.com/Cloud/rare-logo.png"
+  },
+  {
+    "name": "Own a fraction",
+    "address": "0x2bF2ba13735160624a0fEaE98f6aC8F70885eA61",
+    "symbol": "FRACTION",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://fraction.fyi/i/FRACTION-TokenIcon-Honeyswap-200x200.png"
+  },
+  {
+    "name": "HiveShares from Ethereum",
+    "address": "0x97E4ebc14C117C1ac2D032a5A8140C84628b0d17",
+    "symbol": "HIVESHARE",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://hiveshares.finance/gfx/Logo.jpg"
+  },
+  {
+    "name": "BUSD Token from BSC",
+    "address": "0xdd96B45877d0E8361a4DDb732da741e97f3191Ff",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://bscscan.com/token/images/busd_32.png"
   }
 ]

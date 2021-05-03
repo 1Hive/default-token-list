@@ -1,7 +1,7 @@
-# @honeyswap-default-token-list
+# @1hive/default-token-list
 
 [![Tests](https://github.com/Uniswap/token-lists/workflows/Tests/badge.svg)](https://github.com/1Hive/default-token-list/actions?query=workflow%3ATests)
-[![npm](https://img.shields.io/npm/v/honeyswap-default-token-list)](https://unpkg.com/honeyswap-default-token-list@latest/)
+[![npm](https://img.shields.io/npm/v/@1hive/default-token-list)](https://unpkg.com/@1hive/default-token-list@latest/)
 
 This NPM module and GitHub repo contains the default token list used in the Honeyswap interface.
 
@@ -22,6 +22,9 @@ Use feat() & patch() in your commit to dump the version
 example: 
 ```
 feat(add): xDAI
+
+BREAKING CHANGE: description on why this is a breaking change. 
+
 ```
 Once the PR is merge -> Go to the actions tab in the repository, and trigger the deploy action.
 

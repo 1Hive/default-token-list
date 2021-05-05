@@ -1333,5 +1333,13 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://gateway.ipfs.io/ipfs/QmaEPqRKrJDN8iNKVSFj19rbHzZSyWENdj241oek3EJYn7"
+  },
+  {
+    "name": "SURF.Finance from Ethereum",
+    "address": "0xc12956b840B403b600014a3092f6EBD9259738fE",
+    "symbol": "SURF",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/surffinance_32.png"
   }
 ]

@@ -1211,7 +1211,8 @@
     "address": "0xcF9Dc2de2A67d7db1A7171e3b8456D2171E4da75",
     "symbol": "LTI",
     "decimals": 18,
-    "chainId": 100
+    "chainId": 100,
+    "logoURI": "https://layer2index.eth.link/images/lti.png"
   },
   {
     "name": "DefiPulse Index from Ethereum",

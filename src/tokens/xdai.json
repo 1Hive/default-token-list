@@ -1317,5 +1317,13 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://bscscan.com/token/images/busd_32.png"
+  },
+  {
+    "name": "FreeToken",
+    "address": "0xA106739De31FA7a9DF4a93c9bea3E1bAdE0924e2",
+    "symbol": "FREE",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://i.imgur.com/hiVAYU0.png"
   }
 ]

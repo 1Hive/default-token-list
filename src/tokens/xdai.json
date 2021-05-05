@@ -1325,5 +1325,13 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://i.imgur.com/hiVAYU0.png"
+  },
+  {
+    "name": "SNAFU",
+    "address": "0x27B9C2Bd4BaEa18ABdF49169054c1C1c12af9862",
+    "symbol": "SNAFU",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://gateway.ipfs.io/ipfs/QmaEPqRKrJDN8iNKVSFj19rbHzZSyWENdj241oek3EJYn7"
   }
 ]

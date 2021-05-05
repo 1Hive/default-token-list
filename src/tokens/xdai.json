@@ -1212,7 +1212,7 @@
     "symbol": "LTI",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://layer2index.eth.link/images/lti.svg"
+    "logoURI": "https://layer2index.eth.link/images/lti.png"
   },
   {
     "name": "DefiPulse Index from Ethereum",

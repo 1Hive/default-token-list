@@ -1318,5 +1318,13 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/surffinance_32.png"
+  },
+  {
+    "name": "Unisocks",
+    "address": "0x35f346Cb4149746272974a92d719Fd48ae2F72FA",
+    "symbol": "SOCKS",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/10717/small/qFrcoiM.png"
   }
 ]

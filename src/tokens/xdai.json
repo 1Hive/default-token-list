@@ -424,13 +424,6 @@
     "logoURI": "https://user-images.githubusercontent.com/72521363/95662995-2c55f300-0b33-11eb-90f9-4b1fe6c4097f.png"
   },
   {
-    "name": "xDankBillz",
-    "address": "0xDaADd8D96D01e47ee5E4eAFEcF14cbe46909f335",
-    "symbol": "xdbx",
-    "decimals": 18,
-    "chainId": 100
-  },
-  {
     "name": "Badger on xDai",
     "address": "0xdfc20AE04ED70bd9c7D720F449eEDAe19F659D65",
     "symbol": "BADGER",

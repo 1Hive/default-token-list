@@ -424,13 +424,6 @@
     "logoURI": "https://user-images.githubusercontent.com/72521363/95662995-2c55f300-0b33-11eb-90f9-4b1fe6c4097f.png"
   },
   {
-    "name": "xDankBillz",
-    "address": "0xDaADd8D96D01e47ee5E4eAFEcF14cbe46909f335",
-    "symbol": "xdbx",
-    "decimals": 18,
-    "chainId": 100
-  },
-  {
     "name": "Badger on xDai",
     "address": "0xdfc20AE04ED70bd9c7D720F449eEDAe19F659D65",
     "symbol": "BADGER",
@@ -1175,14 +1168,6 @@
     "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xf5581dfefd8fb0e4aec526be659cfab1f8c781da.png"
   },
   {
-    "name": "Rare Coin",
-    "address": "0xCF740AC463098E442B31A5E88F4b359B30255616",
-    "symbol": "RARE",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://affinityharmonics.s3.ca-central-1.amazonaws.com/Cloud/rare-logo-multi.png"
-  },
-  {
     "name": "prophet.finance on xDai",
     "address": "0xa9e5cd4efc86c01fae9a9fcd6e8669b97c92a937",
     "symbol": "PROPHET",
@@ -1197,14 +1182,6 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://assets.coingecko.com/coins/images/13517/small/MF_Robot_200px.png?1609312481"
-  },
-  {
-    "name": "AAH on xDai",
-    "address": "0x99deb53501ac9b1c9f386f628f284b5cd8b107b9",
-    "symbol": "AAH",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://pbs.twimg.com/profile_images/1365887727330279424/aofb7sV6_400x400.jpg"
   },
   {
     "name": "Layer 2 Index on xDai",
@@ -1228,7 +1205,7 @@
     "symbol": "HAUS",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://daohaus.club/static/media/haus__icon.439c0f8e.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/14551/small/jN3kkqke_400x400.png"
   },
   {
     "name": "Minerva Wallet SuperToken",
@@ -1341,5 +1318,13 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/surffinance_32.png"
+  },
+  {
+    "name": "Unisocks",
+    "address": "0x35f346Cb4149746272974a92d719Fd48ae2F72FA",
+    "symbol": "SOCKS",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/10717/small/qFrcoiM.png"
   }
 ]

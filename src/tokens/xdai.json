@@ -1175,14 +1175,6 @@
     "logoURI": "https://raw.githubusercontent.com/balancer-labs/assets/master/assets/0xf5581dfefd8fb0e4aec526be659cfab1f8c781da.png"
   },
   {
-    "name": "Rare Coin",
-    "address": "0xCF740AC463098E442B31A5E88F4b359B30255616",
-    "symbol": "RARE",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://affinityharmonics.s3.ca-central-1.amazonaws.com/Cloud/rare-logo-multi.png"
-  },
-  {
     "name": "prophet.finance on xDai",
     "address": "0xa9e5cd4efc86c01fae9a9fcd6e8669b97c92a937",
     "symbol": "PROPHET",

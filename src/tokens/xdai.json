@@ -1326,5 +1326,21 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://assets.coingecko.com/coins/images/10717/small/qFrcoiM.png"
+  },
+  {
+    "name": "Wrapped CHI from Ethereum",
+    "address": "0x7211ab649A4139561a152B787de52D257cbAAee9",
+    "symbol": "WCHI",
+    "decimals": 8,
+    "chainId": 100,
+    "logoURI": "https://xaya.io/wp-content/uploads/2021/04/Wchi-ic1.png"
+  },
+  {
+    "name": "CFX Quantum from Ethereum",
+    "address": "0x64b17a95e6c45306fb23bc526eb2dc9e1331a1b1",
+    "symbol": "CFXQ",
+    "decimals": 6,
+    "chainId": 100,
+    "logoURI": "https://user-images.githubusercontent.com/83224547/118118933-453ec380-b3f6-11eb-962f-f2bbb1210c60.png"
   }
 ]

@@ -1326,5 +1326,13 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://assets.coingecko.com/coins/images/10717/small/qFrcoiM.png"
+  },
+  {
+    "name": "Wrapped CHI from Ethereum",
+    "address": "0x7211ab649A4139561a152B787de52D257cbAAee9",
+    "symbol": "WCHI",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://xaya.io/wp-content/uploads/2021/04/Wchi-ic1.png"
   }
 ]

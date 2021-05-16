@@ -14,8 +14,8 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI: "ipfs://Qma4TXHsoK3yVtEGCRVeezfVGzokPGLC49Hhyvd9Lf4x2j",
-    keywords: ["honeyswap", "xdai", "polygon"],
-    tokens: [...xdai, ...polygon]
+    keywords: ["honeyswap", "xdai"],
+    tokens: [...xdai]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {

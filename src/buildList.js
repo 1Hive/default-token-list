@@ -1,5 +1,6 @@
 const { version } = require("../package.json");
 const xdai = require("./tokens/xdai.json");
+const polygon = require("./tokens/polygon.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -13,8 +14,8 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI: "ipfs://Qma4TXHsoK3yVtEGCRVeezfVGzokPGLC49Hhyvd9Lf4x2j",
-    keywords: ["honeyswap", "xdai"],
-    tokens: [...xdai]
+    keywords: ["honeyswap", "xdai", "polygon"],
+    tokens: [...xdai, ...polygon]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {

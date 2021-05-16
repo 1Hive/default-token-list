@@ -6,13 +6,16 @@ const Ajv = require("ajv");
 const buildList = require("../src/buildList");
 
 const ajv = new Ajv({ allErrors: true, format: "full" });
-const validator = ajv.compile(schema);
+const validate = ajv.compile(schema);
 
 describe("buildList", () => {
   const defaultTokenList = buildList();
 
   it("validates", () => {
-    expect(validator(defaultTokenList)).to.equal(true);
+    if (!validate(defaultTokenList)) {
+      console.log(validate.errors)
+    }
+    expect(validate(defaultTokenList)).to.equal(true);
   });
 
   it("contains no duplicate addresses", () => {

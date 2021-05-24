@@ -1406,5 +1406,13 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://assets.coingecko.com/coins/images/13547/small/BAO.png"
+    },
+    {
+        "name": "BarnBridge",
+        "address": "0xb31a2595E4Cf66EfBC1Fe348b1429E5730891382",
+        "symbol": "BOND",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/12811/small/barnbridge.jpg"
     }
 ]

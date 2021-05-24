@@ -1430,5 +1430,13 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://assets.coingecko.com/coins/images/12693/small/DOUGH2v.png"
+    },
+    {
+        "name": "Unit Protocol",
+        "address": "0x8E7aB03cA7D17996b097D5866bFAA1e251c35c6a",
+        "symbol": "DUCK",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/13359/small/unit_telegram.png"
     }
 ]

@@ -1374,5 +1374,13 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://avatars.githubusercontent.com/u/71916776?v=4"
+    },
+    {
+        "name": "Fedoragold Coin from Ethereum",
+        "address": "0xf2197c8B553e37E949815360D5ca5E745E925511",
+        "symbol": "BFED",
+        "decimals": 8,
+        "chainId": 100,
+        "logoURI": "https://git.fedoragold.com/FedoraGold/fedswap/raw/branch/main/favicon.png"
     }
 ]

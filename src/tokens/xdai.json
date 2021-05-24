@@ -1342,5 +1342,13 @@
         "decimals": 6,
         "chainId": 100,
         "logoURI": "https://user-images.githubusercontent.com/83224547/118118933-453ec380-b3f6-11eb-962f-f2bbb1210c60.png"
+    },
+    {
+        "name": "rSURF",
+        "address": "0x5c8c83e5d5f7be815863b810d45d7bc706d7b15b",
+        "symbol": "rSURF",
+        "decimals": 9,
+        "chainId": 100,
+        "logoURI": "https://user-images.githubusercontent.com/83677085/118566122-69c1d500-b741-11eb-8d7f-8dedabab7404.png"
     }
 ]

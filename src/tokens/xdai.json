@@ -1390,5 +1390,13 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://assets.coingecko.com/coins/images/13256/small/api3.jpg"
+    },
+    {
+        "name": "Axie Infinity",
+        "address": "0xBDE011911128F6bD4ABb1d18F39fdc3614Ca2cfe",
+        "symbol": "AXS",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/13029/small/axie_infinity_logo.png"
     }
 ]

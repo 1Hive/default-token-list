@@ -1358,5 +1358,13 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://medooza.io/medooza-red-symbol-logo-exchange.png"
+    },
+    {
+        "name": "Daibase xDAI v0.1.61",
+        "address": "0x4ef1d9a329a0cb0658156aff55c406cc4393a987",
+        "symbol": "DAIX",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://user-images.githubusercontent.com/13474314/117913608-ac059500-b2af-11eb-9a04-7e32364798c7.png"
     }
 ]

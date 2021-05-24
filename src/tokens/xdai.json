@@ -1350,5 +1350,13 @@
         "decimals": 9,
         "chainId": 100,
         "logoURI": "https://user-images.githubusercontent.com/83677085/118566122-69c1d500-b741-11eb-8d7f-8dedabab7404.png"
+    },
+    {
+        "name": "MEDOOZA Ecosystem v2.0 from Ethereum",
+        "address": "0xbAb3cbDcBCc578445480a79ed80269C50bB5B718",
+        "symbol": "MDZA",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://medooza.io/medooza-red-symbol-logo-exchange.png"
     }
 ]

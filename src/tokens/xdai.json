@@ -1398,5 +1398,13 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://assets.coingecko.com/coins/images/13029/small/axie_infinity_logo.png"
+    },
+    {
+        "name": "BaoToken Coupon",
+        "address": "0xe0d0b1DBbCF3dd5CAc67edaf9243863Fd70745DA",
+        "symbol": "BAOcx",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/13547/small/BAO.png"
     }
 ]

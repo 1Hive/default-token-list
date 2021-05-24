@@ -1342,5 +1342,101 @@
         "decimals": 6,
         "chainId": 100,
         "logoURI": "https://user-images.githubusercontent.com/83224547/118118933-453ec380-b3f6-11eb-962f-f2bbb1210c60.png"
+    },
+    {
+        "name": "rSURF",
+        "address": "0x5c8c83e5d5f7be815863b810d45d7bc706d7b15b",
+        "symbol": "rSURF",
+        "decimals": 9,
+        "chainId": 100,
+        "logoURI": "https://user-images.githubusercontent.com/83677085/118566122-69c1d500-b741-11eb-8d7f-8dedabab7404.png"
+    },
+    {
+        "name": "MEDOOZA Ecosystem v2.0 from Ethereum",
+        "address": "0xbAb3cbDcBCc578445480a79ed80269C50bB5B718",
+        "symbol": "MDZA",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://medooza.io/medooza-red-symbol-logo-exchange.png"
+    },
+    {
+        "name": "Daibase xDAI v0.1.61",
+        "address": "0x4ef1d9a329a0cb0658156aff55c406cc4393a987",
+        "symbol": "DAIX",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://user-images.githubusercontent.com/13474314/117913608-ac059500-b2af-11eb-9a04-7e32364798c7.png"
+    },
+    {
+        "name": "0xF3.tech",
+        "address": "0xB7D918D7631fCDD0954205e3A6B205a10a31A085",
+        "symbol": "TECH",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://avatars.githubusercontent.com/u/71916776?v=4"
+    },
+    {
+        "name": "Fedoragold Coin from Ethereum",
+        "address": "0xf2197c8B553e37E949815360D5ca5E745E925511",
+        "symbol": "BFED",
+        "decimals": 8,
+        "chainId": 100,
+        "logoURI": "https://git.fedoragold.com/FedoraGold/fedswap/raw/branch/main/favicon.png"
+    },
+    {
+        "name": "API3",
+        "address": "0x44b6bBA599F100006143E82A60462D71Ac1331Da",
+        "symbol": "API3",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/13256/small/api3.jpg"
+    },
+    {
+        "name": "Axie Infinity",
+        "address": "0xBDE011911128F6bD4ABb1d18F39fdc3614Ca2cfe",
+        "symbol": "AXS",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/13029/small/axie_infinity_logo.png"
+    },
+    {
+        "name": "BaoToken Coupon",
+        "address": "0xe0d0b1DBbCF3dd5CAc67edaf9243863Fd70745DA",
+        "symbol": "BAOcx",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/13547/small/BAO.png"
+    },
+    {
+        "name": "BarnBridge",
+        "address": "0xb31a2595E4Cf66EfBC1Fe348b1429E5730891382",
+        "symbol": "BOND",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/12811/small/barnbridge.jpg"
+    },
+    {
+        "name": "BZRX",
+        "address": "0xE6A1f98b0F4368559BD16639C844510f5DB6Fe48",
+        "symbol": "BZRX",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/11811/small/bzrx.png"
+    },
+    {
+        "name": "PieDAO Dough",
+        "address": "0x6d237bb2248d3b40b1a54F3417667B2f39984fC8",
+        "symbol": "DOUGH",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/12693/small/DOUGH2v.png"
+    },
+    {
+        "name": "Unit Protocol",
+        "address": "0x8E7aB03cA7D17996b097D5866bFAA1e251c35c6a",
+        "symbol": "DUCK",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/13359/small/unit_telegram.png"
     }
 ]

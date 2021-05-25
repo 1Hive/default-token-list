@@ -1088,14 +1088,6 @@
         "logoURI": "https://etherscan.io/token/images/unicrypt-uncl_32.png"
     },
     {
-        "name": "Agave ALVIN v3",
-        "address": "0x50dbde932a94b0c23d27cdd30fbc6b987610c831",
-        "symbol": "ALVIN",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0xf9bb1049378A3462E61Bba502530e5Ed62469925/logo.png"
-    },
-    {
         "name": "Shenanigan SHWEATPANTS v3",
         "address": "0x11c9f4c3e960cce4464e25a9fa5414ab72fc45ea",
         "symbol": "SHWEATPANTS",

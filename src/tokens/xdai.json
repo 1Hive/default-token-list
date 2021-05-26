@@ -1422,5 +1422,13 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://assets.coingecko.com/coins/images/13359/small/unit_telegram.png"
+    },
+    {
+        "name": "FTX Token",
+        "address": "0x75886F00c1a20Ec1511111Fb4Ec3C51de65B1fe7",
+        "symbol": "FTT",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/9026/small/F.png"
     }
 ]

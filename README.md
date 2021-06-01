@@ -18,7 +18,7 @@ guarantee that we will review your request to add the token to the default list.
 
 
 ### Deploy new version
-Use feat() & patch() in your commit to dump the version
+Use feat() & patch() in your commit to pump the version
 example: 
 ```
 feat(add): xDAI

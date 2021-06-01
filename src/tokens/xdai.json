@@ -221,7 +221,7 @@
         "symbol": "WBTC",
         "decimals": 8,
         "chainId": 100,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+        "logoURI": "https://etherscan.io/token/images/wbtc_28.png"
     },
     {
         "name": "HEX on xDai",

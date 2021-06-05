@@ -1438,5 +1438,13 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x38Fb649Ad3d6BA1113Be5F57B927053E97fC5bF7/logo.png"
+    },
+    {
+        "name": "MORPHINE",
+        "address": "0xcC043D8820a6dc3E74EF6fb4772faE00c1563489",
+        "symbol": "MRP",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://user-images.githubusercontent.com/66994707/120416532-09f03e80-c37d-11eb-85c4-a27e79adb504.png"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "name": "Honey",
+        "address": "0xb371248dd0f9e4061ccf8850e9223ca48aa7ca4b",
+        "symbol": "HNY",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png"
+    },
+    {
         "name": "decentral.games",
         "address": "0x2a93172c8DCCbfBC60a39d56183B7279a2F647b4",
         "symbol": "DG",
@@ -22,6 +30,14 @@
         "decimals": 18,
         "chainId": 137,
         "logoURI": "https://etherscan.io/token/images/aave_32.png"
+    },
+    {
+        "name": "Adamant",
+        "address": "0xc3FdbadC7c795EF1D6Ba111e06fF8F16A20Ea539",
+        "symbol": "ADDY",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://adamant.finance/img/adamant.png"
     },
     {
         "name": "AGA Token",
@@ -184,12 +200,28 @@
         "logoURI": "https://etherlegends.com/ELET.png"
     },
     {
+        "name": "EthermonToken",
+        "address": "0xd6A5aB46ead26f49b03bBB1F9EB1Ad5c1767974a",
+        "symbol": "EMON",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9651.png"
+    },
+    {
         "name": "Ether",
         "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
         "symbol": "ETH",
         "decimals": 18,
         "chainId": 137,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+        "name": "Future of Finance Fund",
+        "address": "0x9aCeB6f749396d1930aBc9e263eFc449E5e82c13",
+        "symbol": "FFF",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/15761/small/xg1NFl0.png?1621825451"
     },
     {
         "name": "Fish",
@@ -278,6 +310,30 @@
         "decimals": 6,
         "chainId": 137,
         "logoURI": "https://assets.coingecko.com/coins/images/7697/small/N7aEdYrY_400x400.png?1561587437"
+    },
+    {
+        "name": "Rupeeto",
+        "address": "0xde485931674F4EdD3Ed3bf22e86E7d3C7D5347a1",
+        "symbol": "INRP",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://cdn.rupeeto.com/images/rupeeto-symbol.jpeg"
+    },
+    {
+        "name": "Everipedia IQ",
+        "address": "0xB9638272aD6998708de56BBC0A290a1dE534a578",
+        "symbol": "IQ",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://i.imgur.com/2Tocoq5.png"
+    },
+    {
+        "name": "IRON Stablecoin",
+        "address": "0xD86b5923F3AD7b585eD81B448170ae026c65ae9a",
+        "symbol": "IRON",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://ironfi.s3.amazonaws.com/images/IRON.png"
     },
     {
         "name": "Krill",
@@ -416,6 +472,14 @@
         "logoURI": "https://i.imgur.com/FR12tmm.jpg"
     },
     {
+        "name": "Polywolf",
+        "address": "0xc56d17dD519e5eB43a19C9759b5D5372115220BD",
+        "symbol": "MOON",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://i.postimg.cc/CxvzF5bJ/moon-black.png"
+    },
+    {
         "name": "Matic Rebalance Token",
         "address": "0x66768ad00746aC4d68ded9f64886d55d5243f5Ec",
         "symbol": "mRBAL",
@@ -456,6 +520,14 @@
         "logoURI": "https://www.opucoin.io/wp-content/uploads/2021/04/opu-coiin-icon-border.svg"
     },
     {
+        "name": "Orbit Bridge Polygon AUTOv2",
+        "address": "0x7f426F6Dc648e50464a0392E60E1BB465a67E9cf",
+        "symbol": "PAUTO",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/13751/small/autofarm_icon_200x200.png?1611494288"
+    },
+    {
         "name": "PLOT",
         "address": "0xe82808eaA78339b06a691fd92E1Be79671cAd8D3",
         "symbol": "PLOT",
@@ -494,6 +566,14 @@
         "decimals": 18,
         "chainId": 137,
         "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon.jpeg"
+    },
+    {
+        "name": "QuickChart",
+        "address": "0x99dA82C5464C49962Cdda44fe30d352Bc5Da0580",
+        "symbol": "QuickChart",
+        "decimals": 9,
+        "chainId": 137,
+        "logoURI": "https://i.imgur.com/jv5A0eX.png"
     },
     {
         "name": "Rebalance Token",
@@ -552,12 +632,28 @@
         "logoURI": "https://pbs.twimg.com/profile_images/933388441475194881/57fOk40N_400x400.jpg"
     },
     {
+        "name": "IRON Titanium Token",
+        "address": "0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A",
+        "symbol": "TITAN",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://ironfi.s3.amazonaws.com/images/TITAN.png"
+    },
+    {
         "name": "Unibright",
         "address": "0x7FBc10850caE055B27039aF31bD258430e714c62",
         "symbol": "UBT",
         "decimals": 8,
         "chainId": 137,
         "logoURI": "https://assets.coingecko.com/coins/images/2707/small/UnibrightLogo_colorful_500x500_preview.png?1547036916"
+    },
+    {
+        "name": "UniLend Finance Token",
+        "address": "0x5B4CF2C120A9702225814E18543ee658c5f8631e",
+        "symbol": "UFT",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/12819/small/UniLend_Finance_logo_PNG.png?1602748658"
     },
     {
         "name": "Uniswap",
@@ -621,7 +717,7 @@
         "symbol": "WOLF",
         "decimals": 9,
         "chainId": 137,
-        "logoURI": "https://i.imgur.com/UIjlQpC.png"
+        "logoURI": "https://i.postimg.cc/PfLb0ssB/wolf-black.png"
     },
     {
         "name": "WazirX",
@@ -646,6 +742,14 @@
         "decimals": 18,
         "chainId": 137,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png"
+    },
+    {
+        "name": "ZeroSwapToken",
+        "address": "0xfd4959c06FbCc02250952DAEbf8e0Fb38cF9FD8C",
+        "symbol": "ZEE",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://pbs.twimg.com/profile_images/1366339230683652096/sit30Uuo_400x400.png"
     },
     {
         "name": "ZeroUtility",

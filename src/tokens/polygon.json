@@ -798,5 +798,13 @@
         "decimals": 18,
         "chainId": 80001,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
+    },
+    {
+        "name": "Agave",
+        "address": "0x75eb9fd8608e2ff9418821062398e4f4b8d53644",
+        "symbol": "AGVE",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x3a97704a1b25f08aa230ae53b352e2e72ef52843/logo.png"
     }
 ]

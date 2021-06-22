@@ -1446,5 +1446,13 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://user-images.githubusercontent.com/66994707/120416532-09f03e80-c37d-11eb-85c4-a27e79adb504.png"
+    },
+    {
+        "name": "BZZ from Ethereum",
+        "address": "0xdBF3Ea6F5beE45c02255B2c26a16F300502F68da",
+        "symbol": "BZZ",
+        "decimals": 16,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/ethswarm_32.png"
     }
 ]

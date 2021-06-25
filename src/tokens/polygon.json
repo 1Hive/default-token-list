@@ -862,5 +862,13 @@
         "decimals": 6,	
         "chainId": 137,	
         "logoURI": "https://assets.coingecko.com/coins/images/15952/small/IOI.jpg?1622514420"	
+    },
+    {	
+        "name": "Memecoin",	
+        "address": "0x42dbBd5ae373FEA2FC320F62d44C058522Bb3758",	
+        "symbol": "MEM",	
+        "decimals": 18,	
+        "chainId": 137,	
+        "logoURI": "https://media.discordapp.net/attachments/846293892785242143/852874003928449054/mem_gold_with_white_5.png"	
     }
 ]

@@ -854,5 +854,13 @@
         "decimals": 18,	
         "chainId": 137,	
         "logoURI": "https://assets.coingecko.com/coins/images/14238/small/ethernity_logo.png?1615189750"	
+    },
+    {	
+        "name": "IOI Token",	
+        "address": "0xAF24765F631C8830B5528B57002241eE7eef1C14",	
+        "symbol": "IOI",	
+        "decimals": 6,	
+        "chainId": 137,	
+        "logoURI": "https://assets.coingecko.com/coins/images/15952/small/IOI.jpg?1622514420"	
     }
 ]

@@ -846,5 +846,13 @@
         "decimals": 18,	
         "chainId": 137,	
         "logoURI": "https://assets.coingecko.com/coins/images/14541/small/eleven_finance_logo.png?1616895791"	
+    },
+    {	
+        "name": "Ethernity Chain",	
+        "address": "0x0E50BEA95Fe001A370A4F1C220C49AEdCB982DeC",	
+        "symbol": "ERN",	
+        "decimals": 18,	
+        "chainId": 137,	
+        "logoURI": "https://assets.coingecko.com/coins/images/14238/small/ethernity_logo.png?1615189750"	
     }
 ]

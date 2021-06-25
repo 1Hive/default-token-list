@@ -878,5 +878,13 @@
         "decimals": 18,	
         "chainId": 137,	
         "logoURI": "https://rampdefi.com/assets/RAMP_LOGO_V4_256.png"	
+    },
+    {	
+        "name": "rUSD",	
+        "address": "0xfC40a4F89b410a1b855b5e205064a38fC29F5eb5",	
+        "symbol": "rUSD",	
+        "decimals": 18,	
+        "chainId": 137,	
+        "logoURI": "https://rampdefi.com/assets/rUSD-Logo-200.png"	
     }
 ]

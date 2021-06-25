@@ -806,5 +806,93 @@
         "decimals": 18,
         "chainId": 137,
         "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x3a97704a1b25f08aa230ae53b352e2e72ef52843/logo.png"
+    },
+    {
+        "name": "SURF.Finance",
+        "address": "0x1e42edbe5376e717c1b22904c59e406426e8173f",
+        "symbol": "SURF",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/12982/small/surf_200x200.png"
+    },
+    {	
+        "name": "BoringDAO",	
+        "address": "0xff88434E29d1E2333aD6baa08D358b436196da6b",	
+        "symbol": "BORING",	
+        "decimals": 18,	
+        "chainId": 137,	
+        "logoURI": "https://i.imgur.com/Jo6QWz7.png"	
+    },
+    {	
+        "name": "ChumHum",	
+        "address": "0x2e2DDe47952b9c7deFDE7424d00dD2341AD927Ca",	
+        "symbol": "CHUM",	
+        "decimals": 18,	
+        "chainId": 137,	
+        "logoURI": "https://i.imgur.com/66lM7Rx.png"	
+    },
+    {	
+        "name": "CRV",	
+        "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",	
+        "symbol": "CRV",	
+        "decimals": 18,	
+        "chainId": 137,	
+        "logoURI": "https://assets.coingecko.com/coins/images/12124/small/Curve.png?1597369484"	
+    },
+    {	
+        "name": "Eleven.finance",	
+        "address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",	
+        "symbol": "ELE",	
+        "decimals": 18,	
+        "chainId": 137,	
+        "logoURI": "https://assets.coingecko.com/coins/images/14541/small/eleven_finance_logo.png?1616895791"	
+    },
+    {	
+        "name": "Ethernity Chain",	
+        "address": "0x0E50BEA95Fe001A370A4F1C220C49AEdCB982DeC",	
+        "symbol": "ERN",	
+        "decimals": 18,	
+        "chainId": 137,	
+        "logoURI": "https://assets.coingecko.com/coins/images/14238/small/ethernity_logo.png?1615189750"	
+    },
+    {	
+        "name": "IOI Token",	
+        "address": "0xAF24765F631C8830B5528B57002241eE7eef1C14",	
+        "symbol": "IOI",	
+        "decimals": 6,	
+        "chainId": 137,	
+        "logoURI": "https://assets.coingecko.com/coins/images/15952/small/IOI.jpg?1622514420"	
+    },
+    {	
+        "name": "Memecoin",	
+        "address": "0x42dbBd5ae373FEA2FC320F62d44C058522Bb3758",	
+        "symbol": "MEM",	
+        "decimals": 18,	
+        "chainId": 137,	
+        "logoURI": "https://media.discordapp.net/attachments/846293892785242143/852874003928449054/mem_gold_with_white_5.png"	
+    },
+    {	
+        "name": "RAMP",	
+        "address": "0xaECeBfcF604AD245Eaf0D5BD68459C3a7A6399c2",	
+        "symbol": "RAMP",	
+        "decimals": 18,	
+        "chainId": 137,	
+        "logoURI": "https://rampdefi.com/assets/RAMP_LOGO_V4_256.png"	
+    },
+    {	
+        "name": "rUSD",	
+        "address": "0xfC40a4F89b410a1b855b5e205064a38fC29F5eb5",	
+        "symbol": "rUSD",	
+        "decimals": 18,	
+        "chainId": 137,	
+        "logoURI": "https://rampdefi.com/assets/rUSD-Logo-200.png"	
+    },
+    {	
+        "name": "Wootrade Network",	
+        "address": "0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603",	
+        "symbol": "WOO",	
+        "decimals": 18,	
+        "chainId": 137,	
+        "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/wootrade_w.svg"	
     }
 ]

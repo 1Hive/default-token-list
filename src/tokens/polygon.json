@@ -600,6 +600,14 @@
         "logoURI": "https://assets.coingecko.com/coins/images/14040/small/6YPdWn6.png?1613975899"
     },
     {
+        "name": "SURF.Finance (PoS)",
+        "address": "0x1e42edbe5376e717c1b22904c59e406426e8173f",
+        "symbol": "SURF",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/12982/small/surf_200x200.png?1604050261"
+    },
+    {
         "name": "TrustSwap Token",
         "address": "0x3809dcDd5dDe24B37AbE64A5a339784c3323c44F",
         "symbol": "SWAP",

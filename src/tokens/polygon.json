@@ -870,5 +870,13 @@
         "decimals": 18,	
         "chainId": 137,	
         "logoURI": "https://media.discordapp.net/attachments/846293892785242143/852874003928449054/mem_gold_with_white_5.png"	
+    },
+    {	
+        "name": "RAMP",	
+        "address": "0xaECeBfcF604AD245Eaf0D5BD68459C3a7A6399c2",	
+        "symbol": "RAMP",	
+        "decimals": 18,	
+        "chainId": 137,	
+        "logoURI": "https://rampdefi.com/assets/RAMP_LOGO_V4_256.png"	
     }
 ]

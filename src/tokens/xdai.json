@@ -1462,5 +1462,13 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://gateway.pinata.cloud/ipfs/QmXRHYRh283fGyWKY96sRzM9WJgQkKSv6VQG3UjKotYxvj/rxdai.png"
+    },
+    {
+        "name": "Terra Virtua Kolect",
+        "address": "0xeB2BCaBb0cDC099978A74cFE4Ab4d45E7e677a45",
+        "symbol": "TVK",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/13330/small/CoinGLogo.png"
     }
 ]

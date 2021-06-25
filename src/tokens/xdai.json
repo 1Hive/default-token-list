@@ -1454,5 +1454,13 @@
         "decimals": 16,
         "chainId": 100,
         "logoURI": "https://etherscan.io/token/images/ethswarm_32.png"
+    },
+    {
+        "name": "xdai dao",
+        "address": "0x6b0f8a3fb7cb257ad7c72ada469ba1d3c19c5094",
+        "symbol": "RXDAI",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://gateway.pinata.cloud/ipfs/QmXRHYRh283fGyWKY96sRzM9WJgQkKSv6VQG3UjKotYxvj/rxdai.png"
     }
 ]

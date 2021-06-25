@@ -816,11 +816,11 @@
         "logoURI": "https://assets.coingecko.com/coins/images/12982/small/surf_200x200.png"
     },
     {	
-        "name": "decentral.games",	
-        "address": "0x2a93172c8DCCbfBC60a39d56183B7279a2F647b4",	
-        "symbol": "$DG",	
+        "name": "BoringDAO",	
+        "address": "0xff88434E29d1E2333aD6baa08D358b436196da6b",	
+        "symbol": "BORING",	
         "decimals": 18,	
         "chainId": 137,	
-        "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/dg.jpg"	
+        "logoURI": "https://i.imgur.com/Jo6QWz7.png"	
     }
 ]

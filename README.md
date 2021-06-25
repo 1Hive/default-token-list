@@ -20,11 +20,11 @@ guarantee that we will review your request to add the token to the default list.
 ### Deploy new version
 Use feat() & patch() in your commit to pump the version
 example: 
+
 ```
 feat(add): xDAI
 
 BREAKING CHANGE: description on why this is a breaking change. 
-
 ```
 Once the PR is merge -> Go to the actions tab in the repository, and trigger the deploy action.
 

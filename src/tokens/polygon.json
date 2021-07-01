@@ -895,4 +895,13 @@
         "chainId": 137,	
         "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/wootrade_w.svg"	
     }
+    ,
+    {	
+        "name": "Polygon Native Comb",	
+        "address": "0x37D1EbC3Af809b8fADB45DCE7077eFc629b2B5BB",	
+        "symbol": "pCOMB",	
+        "decimals": 18,	
+        "chainId": 137,	
+        "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x37D1EbC3Af809b8fADB45DCE7077eFc629b2B5BB/logo.png"	
+    }
 ]

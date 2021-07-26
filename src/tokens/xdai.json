@@ -1072,6 +1072,14 @@
         "logoURI": "https://xion.finance/images/xgt_icon.png"
     },
     {
+        "name": "Xion Global Token",
+        "address": "0xc25af3123d2420054c8fcd144c21113aa2853f39",
+        "symbol": "XGTv2",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://xion.finance/images/xgt_icon.png"
+    },
+    {
         "name": "Audius on xDai",
         "address": "0x8A95ea379E1Fa4C749dd0A7A21377162028C479e",
         "symbol": "AUDIO",
@@ -1470,5 +1478,21 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://assets.coingecko.com/coins/images/13330/small/CoinGLogo.png"
+    },
+    {
+        "name": "0xMonero from Ethereum",
+        "address": "0x8c88ea1fd60462ef7004b9e288afcb4680a3c50c",
+        "symbol": "0xMR",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5668.png"
+    },
+    {
+        "name": "DAppNode DAO Token from Ethereum",
+        "address": "0xc60e38C6352875c051B481Cbe79Dd0383AdB7817",
+        "symbol": "NODE",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/dappnode_32.png"
     }
 ]

@@ -1470,5 +1470,13 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://assets.coingecko.com/coins/images/13330/small/CoinGLogo.png"
+    },
+    {
+        "name": "0xMonero from Ethereum",
+        "address": "0x8c88ea1fd60462ef7004b9e288afcb4680a3c50c",
+        "symbol": "0xMR",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5668.png"
     }
 ]

@@ -1478,5 +1478,13 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5668.png"
+    },
+    {
+        "name": "DAppNode DAO Token from Ethereum",
+        "address": "0xc60e38C6352875c051B481Cbe79Dd0383AdB7817",
+        "symbol": "NODE",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/dappnode_32.png"
     }
 ]

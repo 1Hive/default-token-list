@@ -894,8 +894,7 @@
         "decimals": 18,	
         "chainId": 137,	
         "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/wootrade_w.svg"	
-    }
-    ,
+    },
     {	
         "name": "Polygon Native Comb",	
         "address": "0x37D1EbC3Af809b8fADB45DCE7077eFc629b2B5BB",	
@@ -903,5 +902,13 @@
         "decimals": 18,	
         "chainId": 137,	
         "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x37D1EbC3Af809b8fADB45DCE7077eFc629b2B5BB/logo.png"	
+    },
+    {	
+        "name": "WAVE Token",	
+        "address": "0x4de7fea447b837d7e77848a4b6c0662a64a84e14",	
+        "symbol": "WAVE",	
+        "decimals": 18,	
+        "chainId": 137,	
+        "logoURI": "https://assets.coingecko.com/coins/images/17471/small/wave.png?1627892452"	
     }
 ]

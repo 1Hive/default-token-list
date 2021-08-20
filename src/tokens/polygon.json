@@ -942,5 +942,13 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://assets.coingecko.com/coins/images/14326/small/cgg_logo.png?1615429976"
+    },
+    {
+      "name": "loserchick",
+      "address": "0x9e725Cf7265D12fd5f59499AFf1258CA92CAc74d",
+      "symbol": "CHICK",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://i.loli.net/2021/07/28/K83jnTJzG9bq7Xt.png"
     }
 ]

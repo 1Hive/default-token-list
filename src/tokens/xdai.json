@@ -1,6 +1,6 @@
 [
     {
-        "name": "Wrapped Ether on xDai",
+        "name": "Wrapped Ether from Ethereum",
         "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
         "symbol": "WETH",
         "decimals": 18,
@@ -8,7 +8,7 @@
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
     {
-        "name": "Dai Stablecoin on xDai",
+        "name": "Dai Stablecoin from Ethereum",
         "address": "0x44fA8E6f47987339850636F88629646662444217",
         "symbol": "DAI",
         "decimals": 18,
@@ -16,7 +16,7 @@
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
     },
     {
-        "name": "USDC on xDai",
+        "name": "USDC from Ethereum",
         "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
         "symbol": "USDC",
         "decimals": 6,
@@ -24,7 +24,7 @@
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
     {
-        "name": "ChainLink Token on xDai",
+        "name": "ChainLink Token from Ethereum",
         "address": "0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2",
         "symbol": "LINK",
         "decimals": 18,
@@ -88,7 +88,7 @@
         "logoURI": "https://etherscan.io/token/images/OMGNetwork_32.png"
     },
     {
-        "name": "Gnosis on xDai",
+        "name": "Gnosis from Ethereum",
         "address": "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb",
         "symbol": "GNO",
         "decimals": 18,
@@ -1368,14 +1368,6 @@
         "logoURI": "https://avatars.githubusercontent.com/u/71916776?v=4"
     },
     {
-        "name": "Fedoragold Coin from Ethereum",
-        "address": "0xf2197c8B553e37E949815360D5ca5E745E925511",
-        "symbol": "BFED",
-        "decimals": 8,
-        "chainId": 100,
-        "logoURI": "https://git.fedoragold.com/FedoraGold/fedswap/raw/branch/main/favicon.png"
-    },
-    {
         "name": "API3",
         "address": "0x44b6bBA599F100006143E82A60462D71Ac1331Da",
         "symbol": "API3",
@@ -1502,5 +1494,13 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://etherscan.io/token/images/symmetricfinance_32.png"
+    },
+    {
+        "name": "PILLAR from Ethereum",
+        "address": "0x10bEEa85519a704A63765d396415f9eA5aa30A17",
+        "symbol": "PLR",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/pillar_32.png"
     }
 ]

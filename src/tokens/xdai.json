@@ -1502,5 +1502,13 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://etherscan.io/token/images/symmetricfinance_32.png"
+    },
+    {
+        "name": "PILLAR from Ethereum",
+        "address": "0x10bEEa85519a704A63765d396415f9eA5aa30A17",
+        "symbol": "PLR",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/pillar_32.png"
     }
 ]

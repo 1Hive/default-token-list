@@ -910,5 +910,13 @@
         "decimals": 18,	
         "chainId": 137,	
         "logoURI": "https://assets.coingecko.com/coins/images/17471/small/wave.png?1627892452"	
+    },
+    {
+      "name": "Adshares",
+      "address": "0x598e49f01bEfeB1753737934a5b11fea9119C796",
+      "symbol": "ADS",
+      "decimals": 11,
+      "chainId": 137,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1883.png"
     }
 ]

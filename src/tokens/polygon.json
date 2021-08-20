@@ -1038,5 +1038,13 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10620.png"
+    },
+    {
+      "name": "Huobi Token",
+      "address": "0xA731349fa468614c1698fc46ebf06Da6F380239e",
+      "symbol": "HT",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/2822/small/huobi-token-logo.png?1547036992"
     }
 ]

@@ -1030,5 +1030,13 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://i.imgur.com/VtDIzy7.png"
+    },
+    {
+      "name": "HONOR",
+      "address": "0xb82A20B4522680951F11c94c54B8800c1C237693",
+      "symbol": "HONOR",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10620.png"
     }
 ]

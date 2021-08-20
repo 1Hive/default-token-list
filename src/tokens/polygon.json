@@ -982,5 +982,14 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://dinox.io/images/asset_icon_dnx.png"
+    },
+    {
+      "name": "LoserchickEgg",
+      "address": "0x245e5ddb65eFea6522Fa913229dF1f4957fB2e21",
+      "symbol": "EGG",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://i.loli.net/2021/07/28/bGfpAaC6idUZVNP.png"
     }
+
 ]

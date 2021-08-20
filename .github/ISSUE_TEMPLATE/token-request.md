@@ -12,12 +12,12 @@ assignees: ''
 
 **Please provide the following information for your token.**
 
-Token Address on xDai: 
+Token Address on xDai/Polygon: 
 Token Name (from contract): 
 Token Decimals (from contract): 
 Token Symbol (from contract): 
 Honeyswap Pair Address of Token: 
-Token image (logoURI, only PNG and JPG):
+Token image (logoURI, only PNG and JPG): 
 
 
 Link to the official homepage of token:

@@ -12,7 +12,7 @@ assignees: ''
 
 **Please provide the following information for your token.**
 
-Token Address on xDai/Polygon: 
+Token Address on xDai or Polygon: 
 Token Name (from contract): 
 Token Decimals (from contract): 
 Token Symbol (from contract): 

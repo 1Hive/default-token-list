@@ -950,5 +950,13 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://i.loli.net/2021/07/28/K83jnTJzG9bq7Xt.png"
+    },
+    {
+      "name": "Crosschain IOTX",
+      "address": "0x300211Def2a644b036A9bdd3e58159bb2074d388",
+      "symbol": "CIOTX",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/iotexproject/iotex-token-metadata/master/images/io1nxetpma4de3wx6tqcgxdtj5wc64a24t64dc76s.png"
     }
 ]

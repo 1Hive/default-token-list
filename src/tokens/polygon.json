@@ -1022,5 +1022,13 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://assets.coingecko.com/coins/images/15871/small/GFI-Icon.png?1622178588"
+    },
+    {
+      "name": "Helmet.insure on Polygon",
+      "address": "0x948d2a81086A075b3130BAc19e4c6DEe1D2E3fE8",
+      "symbol": "Guard",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://i.imgur.com/VtDIzy7.png"
     }
 ]

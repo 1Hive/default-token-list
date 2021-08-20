@@ -918,5 +918,13 @@
       "decimals": 11,
       "chainId": 137,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1883.png"
+    },
+    {
+      "name": "Avalanche Token",
+      "address": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
+      "symbol": "AVAX",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png?1604021818"
     }
 ]

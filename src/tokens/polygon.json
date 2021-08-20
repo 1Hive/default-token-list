@@ -1006,5 +1006,13 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://assets.coingecko.com/coins/images/15825/small/fear-logo-400-400.png?1625552865"
+    },
+    {
+      "name": "GemBites",
+      "address": "0xbe9512e2754cb938dd69Bbb96c8a09Cb28a02D6D",
+      "symbol": "GBTS",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://i.ibb.co/D7nDtJK/Gem-Bites32x32.png"
     }
 ]

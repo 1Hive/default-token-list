@@ -974,5 +974,13 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://assets.coingecko.com/coins/images/17103/small/DINO.png?1626244014"
+    },
+    {
+      "name": "DinoX Coin",
+      "address": "0xcaF5191fc480F43e4DF80106c7695ECA56E48B18",
+      "symbol": "DNXC",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://dinox.io/images/asset_icon_dnx.png"
     }
 ]

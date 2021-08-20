@@ -998,5 +998,13 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://etherscan.io/token/images/easyfi_32.png?v=2"
+    },
+    {
+      "name": "Fear NFTs",
+      "address": "0xa2CA40DBe72028D3Ac78B5250a8CB8c404e7Fb8C",
+      "symbol": "FEAR",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/15825/small/fear-logo-400-400.png?1625552865"
     }
 ]

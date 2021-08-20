@@ -990,6 +990,13 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://i.loli.net/2021/07/28/bGfpAaC6idUZVNP.png"
+    },
+    {
+      "name": "EASY V2",
+      "address": "0x34C1b299A74588D6Abdc1b85A53345A48428a521",
+      "symbol": "EZ",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://etherscan.io/token/images/easyfi_32.png?v=2"
     }
-
 ]

@@ -910,5 +910,141 @@
         "decimals": 18,	
         "chainId": 137,	
         "logoURI": "https://assets.coingecko.com/coins/images/17471/small/wave.png?1627892452"	
+    },
+    {
+      "name": "Adshares",
+      "address": "0x598e49f01bEfeB1753737934a5b11fea9119C796",
+      "symbol": "ADS",
+      "decimals": 11,
+      "chainId": 137,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1883.png"
+    },
+    {
+      "name": "Avalanche Token",
+      "address": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
+      "symbol": "AVAX",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png?1604021818"
+    },
+    {
+      "name": "Bella",
+      "address": "0x28C388FB1F4fa9F9eB445f0579666849EE5eeb42",
+      "symbol": "BEL",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/12478/small/Bella.png?1602230054"
+    },
+    {
+      "name": "ChainGuardians Governance Token",
+      "address": "0x2Ab4f9aC80F33071211729e45Cfc346C1f8446d5",
+      "symbol": "CGG",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/14326/small/cgg_logo.png?1615429976"
+    },
+    {
+      "name": "loserchick",
+      "address": "0x9e725Cf7265D12fd5f59499AFf1258CA92CAc74d",
+      "symbol": "CHICK",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://i.loli.net/2021/07/28/K83jnTJzG9bq7Xt.png"
+    },
+    {
+      "name": "Crosschain IOTX",
+      "address": "0x300211Def2a644b036A9bdd3e58159bb2074d388",
+      "symbol": "CIOTX",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/iotexproject/iotex-token-metadata/master/images/io1nxetpma4de3wx6tqcgxdtj5wc64a24t64dc76s.png"
+    },
+    {
+      "name": "Furucombo",
+      "address": "0x6DdB31002abC64e1479Fc439692F7eA061e78165",
+      "symbol": "COMBO",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/13629/small/COMBO_token_ol.png?1610701537"
+    },
+    {
+      "name": "DinoSwap",
+      "address": "0xAa9654BECca45B5BDFA5ac646c939C62b527D394",
+      "symbol": "DINO",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/17103/small/DINO.png?1626244014"
+    },
+    {
+      "name": "DinoX Coin",
+      "address": "0xcaF5191fc480F43e4DF80106c7695ECA56E48B18",
+      "symbol": "DNXC",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://dinox.io/images/asset_icon_dnx.png"
+    },
+    {
+      "name": "LoserchickEgg",
+      "address": "0x245e5ddb65eFea6522Fa913229dF1f4957fB2e21",
+      "symbol": "EGG",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://i.loli.net/2021/07/28/bGfpAaC6idUZVNP.png"
+    },
+    {
+      "name": "EASY V2",
+      "address": "0x34C1b299A74588D6Abdc1b85A53345A48428a521",
+      "symbol": "EZ",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://etherscan.io/token/images/easyfi_32.png?v=2"
+    },
+    {
+      "name": "Fear NFTs",
+      "address": "0xa2CA40DBe72028D3Ac78B5250a8CB8c404e7Fb8C",
+      "symbol": "FEAR",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/15825/small/fear-logo-400-400.png?1625552865"
+    },
+    {
+      "name": "GemBites",
+      "address": "0xbe9512e2754cb938dd69Bbb96c8a09Cb28a02D6D",
+      "symbol": "GBTS",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://i.ibb.co/D7nDtJK/Gem-Bites32x32.png"
+    },
+    {
+      "name": "Gravity Finance",
+      "address": "0x874e178A2f3f3F9d34db862453Cd756E7eAb0381",
+      "symbol": "GFI",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/15871/small/GFI-Icon.png?1622178588"
+    },
+    {
+      "name": "Helmet.insure on Polygon",
+      "address": "0x948d2a81086A075b3130BAc19e4c6DEe1D2E3fE8",
+      "symbol": "Guard",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://i.imgur.com/VtDIzy7.png"
+    },
+    {
+      "name": "HONOR",
+      "address": "0xb82A20B4522680951F11c94c54B8800c1C237693",
+      "symbol": "HONOR",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10620.png"
+    },
+    {
+      "name": "Huobi Token",
+      "address": "0xA731349fa468614c1698fc46ebf06Da6F380239e",
+      "symbol": "HT",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/2822/small/huobi-token-logo.png?1547036992"
     }
 ]

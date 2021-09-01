@@ -1503,12 +1503,20 @@
         "chainId": 100,
         "logoURI": "https://etherscan.io/token/images/pillar_32.png"
     },
-	 {
+	{
         "name": "FOX from Ethereum",
         "address": "0x21a42669643f45Bc0e086b8Fc2ed70c23D67509d",
         "symbol": "FOX",
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://raw.githubusercontent.com/uniswap/assets/master/blockchains/ethereum/assets/0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d/logo.png"
+    },
+    {
+        "name": "Raid Guild Token from Ethereum",
+        "address": "0x18e9262e68cc6c6004db93105cc7c001bb103e49",
+        "symbol": "RAID",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x18e9262e68cc6c6004db93105cc7c001bb103e49/logo.png"
     }
 ]

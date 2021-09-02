@@ -1360,14 +1360,6 @@
         "logoURI": "https://user-images.githubusercontent.com/13474314/117913608-ac059500-b2af-11eb-9a04-7e32364798c7.png"
     },
     {
-        "name": "0xF3.tech",
-        "address": "0xB7D918D7631fCDD0954205e3A6B205a10a31A085",
-        "symbol": "TECH",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://avatars.githubusercontent.com/u/71916776?v=4"
-    },
-    {
         "name": "API3",
         "address": "0x44b6bBA599F100006143E82A60462D71Ac1331Da",
         "symbol": "API3",

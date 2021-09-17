@@ -1518,5 +1518,29 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://raw.githubusercontent.com/ShenaniganDApp/unisocks/master/src/components/Gallery/pantsToken.png"
+    },
+    {
+        "name": "DAOSquare Governance Token from Ethereum",
+        "address": "0x97Edc0e345FbBBd8460847Fcfa3bc2a13bF8641F",
+        "symbol": "RICE",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://daodkp.oss-ap-southeast-1.aliyuncs.com/assets/logo-sm.png"
+    },
+    {
+        "name": "Digital Standard Unit from Ethereum",
+        "address": "0x39EA27194f24756C7315321DB7FfF8f4C4213C17",
+        "symbol": "DSU",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://user-images.githubusercontent.com/59892837/132809998-2ccdc495-842f-4119-98a3-3bfe283cf5ab.png"
+    },
+    {
+        "name": "Bright from Ethereum",
+        "address": "0x83FF60E2f93F8eDD0637Ef669C69D5Fb4f64cA8E",
+        "symbol": "BRIGHT",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/BrightDAO/logo.png"
     }
 ]

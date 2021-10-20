@@ -1536,11 +1536,11 @@
         "logoURI": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/BrightDAO/logo.png"
     },
     {
-        "name": "Wrapped POA From POA on xDai",
+        "name": "Wrapped POA from POA (WPOA)",
         "address": "0x9fe3864F9Ae7cfb5668Dae90C0e20c4C3D437664",
         "symbol": "WPOA",
         "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://blockscout.com/poa/core/images/poa_logo-4da37f27329be66634f9d976d1d36868.svg"
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2548.png"
     }
 ]

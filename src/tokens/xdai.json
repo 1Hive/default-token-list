@@ -1534,5 +1534,13 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/BrightDAO/logo.png"
+    },
+    {
+        "name": "DeHive",
+        "address": "0xFbdd194376de19a88118e84E279b977f165d01b8",
+        "symbol": "DHV",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://dehive.finance/logo_200x200.png"
     }
 ]

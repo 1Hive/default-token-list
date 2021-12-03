@@ -1046,5 +1046,13 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://assets.coingecko.com/coins/images/2822/small/huobi-token-logo.png?1547036992"
+    },
+    {
+      "name": "ShapeShift FOX Token",
+      "address": "0x65a05db8322701724c197af82c9cae41195b0aa8",
+      "symbol": "FOX",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/uniswap/assets/master/blockchains/ethereum/assets/0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d/logo.png"
     }
 ]

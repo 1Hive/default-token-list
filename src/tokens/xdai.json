@@ -1542,5 +1542,13 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://dehive.finance/logo_200x200.png"
+    },
+    {
+        "name": "Punk from Mainnet",
+        "address": "0x988d1Be68F2C5cDE2516a2287c59Bd6302b7D20D",
+        "symbol": "PUNK",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://xdaipunks.com/punk-200x200.png"
     }
 ]

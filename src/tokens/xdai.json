@@ -1550,5 +1550,13 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://xdaipunks.com/punk-200x200.png"
+    },
+    {
+        "name": "Colony Network Token from Ethereum",
+        "address": "0xc9B6218AffE8Aba68a13899Cbf7cF7f14DDd304C",
+        "symbol": "CLNY",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/JoinColony/colonyDapp/master/src/img/favicon.png"
     }
 ]

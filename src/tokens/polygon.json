@@ -1054,5 +1054,21 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://raw.githubusercontent.com/uniswap/assets/master/blockchains/ethereum/assets/0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d/logo.png"
+    },
+    {
+        "name": "Minerva Wallet SuperToken",
+        "address": "0xc0b2983a17573660053beeed6fdb1053107cf387",
+        "symbol": "MIVA",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://minerva.digital/i/MIVA-Token_200x200.png"
+    },
+    {
+        "name": "Own a fraction",
+        "address": "0xbd80cfa9d93a87d1bb895f810ea348e496611cd4",
+        "symbol": "FRACTION",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://fraction.fyi/static/FRACTION-TokenIcon-Honeyswap-200x200.png"
     }
 ]

@@ -1566,5 +1566,13 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://raw.githubusercontent.com/Giveth/giveth-design-assets/master/02-logos/GIV%20Token/GIVToken_200x200.png"
+    },
+    {
+        "name": "P8",
+        "address": "0x772fCe4B8E88BD19e86dC92428d242704aC480a0",
+        "symbol": "P8",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://www.poly186.io/wp-content/uploads/2021/12/572-by-712.png"
     }
 ]

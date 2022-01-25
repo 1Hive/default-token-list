@@ -1566,5 +1566,13 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://raw.githubusercontent.com/Giveth/giveth-design-assets/master/02-logos/GIV%20Token/GIVToken_200x200.png"
+    },
+    {
+        "name": "Token Engineering Commons",
+        "address": "0x5df8339c5e282ee48c0c7ce8a7d01a73d38b3b27",
+        "symbol": "TEC",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://github.com/CommonsBuild/tec-branding-assets/blob/main/Logo/Icon/TEC%20Icon%20Color.png"
     }
 ]

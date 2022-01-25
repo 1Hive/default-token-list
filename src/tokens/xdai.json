@@ -1573,6 +1573,6 @@
         "symbol": "TEC",
         "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://github.com/CommonsBuild/tec-branding-assets/blob/main/Logo/Icon/TEC%20Icon%20Color.png"
+        "logoURI": "https://raw.githubusercontent.com/CommonsBuild/tec-branding-assets/main/Logo/Icon/TEC%20Icon%20Color.png"
     }
 ]

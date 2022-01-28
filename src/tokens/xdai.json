@@ -1574,5 +1574,13 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://www.poly186.io/wp-content/uploads/2021/12/572-by-712.png"
+    },
+    {
+        "name": "Token Engineering Commons",
+        "address": "0x5df8339c5e282ee48c0c7ce8a7d01a73d38b3b27",
+        "symbol": "TEC",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/CommonsBuild/tec-branding-assets/main/Logo/Icon/TEC%20Icon%20Color.png"
     }
 ]

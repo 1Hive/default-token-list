@@ -1557,7 +1557,7 @@
         "symbol": "CLNY",
         "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://raw.githubusercontent.com/JoinColony/colonyDapp/master/src/img/favicon.png"
+        "logoURI": "https://raw.githubusercontent.com/JoinColony/brand/main/clny_200x200.png"
     },
     {
         "name": "Giveth from Mainnet",

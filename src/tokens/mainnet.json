@@ -990,5 +990,13 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png"
+  },
+  {
+    "name": "Colony Network Token",
+    "address": "0x3E828ac5C480069D4765654Fb4b8733b910b13b2",
+    "symbol": "CLNY",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/JoinColony/brand/main/clny_200x200.png"
   }
 ]

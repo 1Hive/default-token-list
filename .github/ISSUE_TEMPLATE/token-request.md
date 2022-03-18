@@ -12,7 +12,7 @@ assignees: ''
 
 **Please provide the following information for your token.**
 
-Token Address on xDai or Polygon: 
+Token Address on Gnosis chain or Polygon: 
 Token Name (from contract): 
 Token Decimals (from contract): 
 Token Symbol (from contract): 
@@ -20,5 +20,5 @@ Honeyswap Pair Address of Token:
 Token image (logoURI, only PNG and JPG): 
 
 
-Link to the official homepage of token:
+Link to the official homepage of token: 
 Link to CoinMarketCap or CoinGecko page of token (if any): 

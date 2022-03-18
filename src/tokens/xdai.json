@@ -1574,5 +1574,13 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://raw.githubusercontent.com/CommonsBuild/tec-branding-assets/main/Logo/Icon/TEC%20Icon%20Color.png"
+    },
+    {
+        "name": "VitaDAO from Mainnet",
+        "address": "0x0939a7c3f8d37c1ce67fada4963ae7e0bd112ff3",
+        "symbol": "VITA",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/VitaDAO/assets/master/vitadao-icon.png"
     }
 ]

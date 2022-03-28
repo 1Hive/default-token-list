@@ -1582,5 +1582,13 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://raw.githubusercontent.com/VitaDAO/assets/master/vitadao-icon.png"
+    },
+    {
+        "name": "CoW Protocol Token from Mainnet",
+        "address": "0x177127622c4A00F3d409B75571e12cB3c8973d3c",
+        "symbol": "COW",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/24384/small/COW-token-1024x1024.png"
     }
 ]

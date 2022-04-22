@@ -1606,5 +1606,13 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://app.stakewise.io/static/images/currencies/rgno.png"
+    },
+    {
+        "name": "MtPelerin Shares",
+        "address": "0xfa57AA7beED63D03Aaf85fFd1753f5f6242588fb",
+        "symbol": "MPS",
+        "decimals": 0,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/11471/large/MPS.png"
     }
 ]

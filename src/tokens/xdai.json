@@ -1614,5 +1614,13 @@
         "decimals": 0,
         "chainId": 100,
         "logoURI": "https://assets.coingecko.com/coins/images/11471/large/MPS.png"
+    },
+    {
+        "name": "Water Token",
+        "address": "0x4291F029B9e7acb02D49428458cf6fceAC545f81",
+        "symbol": "WATER",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x4291F029B9e7acb02D49428458cf6fceAC545f81/logo.png"
     }
 ]

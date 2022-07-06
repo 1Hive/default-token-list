@@ -1622,5 +1622,13 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x4291F029B9e7acb02D49428458cf6fceAC545f81/logo.png"
+    },
+    {
+        "name": "Alvin",
+        "address": "0x59715D8d206b3D4748Cec55E7c2DE26F23AF45D5",
+        "symbol": "ALVIN",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x59715D8d206b3D4748Cec55E7c2DE26F23AF45D5/logo.png"
     }
 ]

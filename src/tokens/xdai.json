@@ -1630,5 +1630,13 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x59715D8d206b3D4748Cec55E7c2DE26F23AF45D5/logo.png"
+    },
+    {
+        "name": "EsportsRef",
+        "address": "0xd3226b12e6188133b19ac0419f34b0ed5b10f069",
+        "symbol": "ESR",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/23280/small/esr.png"
     }
 ]

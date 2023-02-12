@@ -13,7 +13,7 @@ module.exports = function buildList() {
       patch: +parsed[2],
     },
     tags: {},
-    logoURI: "ipfs://Qma4TXHsoK3yVtEGCRVeezfVGzokPGLC49Hhyvd9Lf4x2j",
+    logoURI: "https://ipfs.io/ipfs/bafybeihqunal3rxoz7bosmqxqobz2sz4nn62naufxqf2fyq35bepp4pkdy",
     keywords: ["honeyswap", "xdai", "polygon"],
     tokens: [...xdai, ...polygon]
       // sort them by symbol for easy readability

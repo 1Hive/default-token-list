@@ -14,19 +14,21 @@ To request that we add a token to the list,
 
 Note filing an issue does not guarantee addition to this default token list.
 We do not review token addition requests in any particular order, and we do not
-guarantee that we will review your request to add the token to the default list. 
+guarantee that we will review your request to add the token to the default list.
 
-### Submit a PR 
-If you want a token to be added to the token list you can submit a PR , make sure ```npm test``` is not giving any error.
+### Submit a PR
+
+If you want a token to be added to the token list you can submit a PR , make sure `npm test` is not giving any error.
 
 ### Deploy new version
+
 Use feat() & patch() in your commit to pump the version
-example: 
+example:
 
 ```
-feat(add): xDAI
+feat(add): Gnosis
 
-BREAKING CHANGE: description on why this is a breaking change. 
+BREAKING CHANGE: description on why this is a breaking change.
 ```
+
 Once the PR is merge -> Go to the actions tab in the repository, and trigger the deploy action.
-

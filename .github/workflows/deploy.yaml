@@ -77,7 +77,7 @@ jobs:
         uses: aquiladev/ipfs-action@v0.1.4
         with:
           service: pinata
-          path: ./build/honeyswap-default.tokenlist.json
+          path: ./build/index.json
           pinataKey: ${{ secrets.PINATA_API_KEY }}
           pinataSecret: ${{ secrets.PINATA_API_SECRET_KEY }}
 

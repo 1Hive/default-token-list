@@ -1,15 +1,15 @@
 {
   "name": "@1hive/default-token-list",
-  "version": "5.28.1",
+  "version": "6.0.0",
   "description": "◦ The Honeyswap default token list",
-  "main": "build/honeyswap-default.tokenlist.json",
+  "main": "build/index.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/honeyswap-default.tokenlist.json",
-    "prepublishOnly": "npm test && npm run build"
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/index.json",
+    "prepublishOnly": "pnpm test && pnpm run build"
   },
   "files": [
-    "build/honeyswap-default.tokenlist.json"
+    "build/index.json"
   ],
   "repository": {
     "type": "git",

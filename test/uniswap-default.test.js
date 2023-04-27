@@ -4,6 +4,7 @@ const { expect } = require("chai");
 const { getAddress } = require("@ethersproject/address");
 const Ajv = require("ajv");
 const buildList = require("../src/buildList");
+const jp = require("jsonpath");
 
 const ajv = new Ajv({ allErrors: true, format: "full" });
 const validate = ajv.compile(schema);
@@ -13,7 +14,18 @@ describe("buildList", () => {
 
   it("validates", () => {
     if (!validate(defaultTokenList)) {
-      console.log(validate.errors)
+      // for errors
+      for (i = 0; i < validate.errors.length; i++) {
+        const error = validate.errors[i];
+        console.log(error);
+        if (error.dataPath) {
+          const resultWithProblem = jp.query(
+            defaultTokenList,
+            `$${error.dataPath}`
+          );
+          console.log("resultWithProblem", resultWithProblem);
+        }
+      }
     }
     expect(validate(defaultTokenList)).to.equal(true);
   });

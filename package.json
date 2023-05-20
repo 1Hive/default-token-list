@@ -1,6 +1,6 @@
 {
   "name": "@1hive/default-token-list",
-  "version": "6.0.1",
+  "version": "6.0.2",
   "description": "◦ The Honeyswap default token list",
   "main": "build/index.json",
   "scripts": {

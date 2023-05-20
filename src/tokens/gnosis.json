@@ -152,6 +152,14 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png"
   },
   {
+    "name": "hiveWater",
+    "address": "0x3a3e9715018d80916740e8ac300713fdf6614d19",
+    "symbol": "HIVEWATER",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x3a3e9715018d80916740e8ac300713fdf6614d19/logo.png"
+  },
+  {
     "name": "Sai on Gnosis",
     "address": "0xc439E5B1DEe4f866B681E7c5E5dF140aA47fBf19",
     "symbol": "SAI",

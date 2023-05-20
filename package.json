@@ -4,7 +4,7 @@
   "description": "◦ The Honeyswap default token list",
   "main": "build/index.json",
   "scripts": {
-    "test": "mocha",
+    "test": "mocha --exit",
     "build": "rimraf build && mkdir -p build && node src/write.js > build/index.json",
     "prepublishOnly": "pnpm test && pnpm run build"
   },
@@ -32,6 +32,7 @@
     "@ethersproject/address": "^5.0.2",
     "@uniswap/token-lists": "^1.0.0-beta.8",
     "ajv": "^6.12.3",
+    "axios": "^1.4.0",
     "chai": "^4.2.0",
     "mocha": "^8.3.2",
     "node-fetch": "^2.6.1",

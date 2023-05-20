@@ -9,6 +9,7 @@ jobs:
       - name: Setup node
         uses: actions/setup-node@v1
         with:
-          node-version: 12
+          node-version: 20
       - run: npm install
-      - run: npm test
+      # pass branch name to test script
+      - run: npm run test -- --branch ${{ github.ref }}

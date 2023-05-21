@@ -5,11 +5,46 @@ jobs:
     runs-on: ubuntu-latest
     name: Unit Tests
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Setup node
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v3
         with:
           node-version: 20
       - run: npm install
       # pass branch name to test script
       - run: npm run test -- --commit ${{ github.sha }}
+
+  create-tag:
+    needs: test
+    runs-on: ubuntu-latest
+    name: Create Tag
+    if: startsWith(github.ref, 'refs/heads/branch_v')
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Read package.json
+        id: read-package-json
+        run: |
+          VERSION=$(node -p "require('./package.json').version")
+          echo "::set-output name=version::$VERSION"
+
+      - name: Check if tag exists
+        id: check-tag
+        run: |
+          if git rev-parse "refs/tags/v${{ steps.read-package-json.outputs.version }}" >/dev/null 2>&1; then
+            echo "::set-output name=tag_exists::true"
+          else
+            echo "::set-output name=tag_exists::false"
+          fi
+
+      - name: Create tag
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          if [[ "${{ steps.check-tag.outputs.tag_exists }}" == "false" ]]; then
+            git tag -a v${{ steps.read-package-json.outputs.version }} -m "Auto-generated tag"
+            git push origin v${{ steps.read-package-json.outputs.version }}
+          else
+            echo "Tag already exists. Skipping tag creation."
+          fi

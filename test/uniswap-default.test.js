@@ -11,31 +11,15 @@ const ajv = new Ajv({ allErrors: true, format: "full" });
 const validate = ajv.compile(schema);
 
 function getBranchFromArgs(defaultBranch) {
-  // refs/tags/<tag_name> // refs/heads/<branch_name>
   const args = process.argv.slice(2); // Ignorando os dois primeiros argumentos (node e nome do arquivo)
-  const branchIndex = args.indexOf("--branch");
   const commitIndex = args.indexOf("--commit");
   console.log("Args", args);
-  console.log("BranchIndex", branchIndex);
   console.log("CommitIndex", commitIndex);
   if (commitIndex !== -1 && commitIndex < args.length - 1) {
     const commit = args[commitIndex + 1];
     console.log("Commit found", commit);
     return commit;
   }
-  if (branchIndex !== -1 && branchIndex < args.length - 1) {
-    const branch = args[branchIndex + 1];
-    console.log("Branch/Tag found", branch);
-    if (branch) {
-      if (branch.startsWith("refs/heads/")) {
-        return branch.replace("refs/heads/", "");
-      } else if (branch.startsWith("refs/tags/")) {
-        return branch.replace("refs/tags/", "");
-      }
-    }
-    return branch;
-  }
-
   return defaultBranch;
 }
 

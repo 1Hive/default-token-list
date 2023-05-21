@@ -12,4 +12,4 @@ jobs:
           node-version: 20
       - run: npm install
       # pass branch name to test script
-      - run: npm run test -- --branch ${{ github.ref }} --commit ${{ github.sha }}
+      - run: npm run test -- --commit ${{ github.sha }}

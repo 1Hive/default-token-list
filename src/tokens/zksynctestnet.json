@@ -1,18 +1,50 @@
 [
   {
     "name": "Wrapped Ether from Ethereum",
-    "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
+    "address": "0x20b28B1e4665FFf290650586ad76E977EAb90c5D",
     "symbol": "WETH",
     "decimals": 18,
-    "chainId": 100,
+    "chainId": 280,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
   },
   {
     "name": "USDC from Ethereum",
-    "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
+    "address": "0x0faF6df7054946141266420b43783387A78d82A9",
     "symbol": "USDC",
     "decimals": 6,
-    "chainId": 100,
+    "chainId": 280,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "name": "Dai Stablecoin",
+    "address": "0x3e7676937A7E96CFB7616f255b9AD9FF47363D4b",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 280,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+  },
+  {
+    "name": "Wrapped BTC on ZkSync",
+    "address": "0x0BfcE1D53451B4a8175DD94e6e029F7d8a701e9c",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "chainId": 280,
+    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/ethereum/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599/logo.png"
+  },
+  {
+    "name": "ChainLink Token from Ethereum",
+    "address": "0x40609141Db628BeEE3BfAB8034Fc2D8278D0Cc78",
+    "symbol": "LINK",
+    "decimals": 18,
+    "chainId": 280,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+  },
+  {
+    "name": "HoneyTest",
+    "address": "0x1f239b710Bc93274aBa0d21AbfB7F6c6aFb9e77a",
+    "symbol": "HNYT",
+    "decimals": 18,
+    "chainId": 280,
+    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png"
   }
 ]

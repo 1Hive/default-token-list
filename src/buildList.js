@@ -1,6 +1,7 @@
 const { version } = require("../package.json");
 const gnosis = require("./tokens/gnosis.json");
 const polygon = require("./tokens/polygon.json");
+const zktestnet = require("./tokens/zksynctestnet.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -15,8 +16,8 @@ module.exports = function buildList() {
     tags: {},
     logoURI:
       "https://ipfs.io/ipfs/bafybeihqunal3rxoz7bosmqxqobz2sz4nn62naufxqf2fyq35bepp4pkdy",
-    keywords: ["honeyswap", "gnosis", "polygon"],
-    tokens: [...gnosis, ...polygon]
+    keywords: ["honeyswap", "gnosis", "polygon","zksync"],
+    tokens: [...gnosis, ...polygon,...zktestnet]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {

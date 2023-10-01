@@ -1,0 +1,266 @@
+[
+  {
+    "name": "Flex Ungovernance Token from Mainnet",
+    "address": "0xd87eaa26dcfb0c0a6160ccf8c8a01beb1c15fb00",
+    "symbol": "FLX",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/14123/thumb/EAfYdwgd_400x400.jpg?1614564508"
+  },
+  {
+    "name": "TrueFi on xDai",
+    "address": "0x4384a7c9498f905e433ee06b6552a18e1d7cd3a4",
+    "symbol": "TRU",
+    "decimals": 8,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/13180/thumb/truefi_glyph_color.png?1617610941"
+  },
+  {
+    "name": "Curve.Fi USD Stablecoin from Mainnet",
+    "address": "0xabef652195f98a91e490f047a5006b71c85f058d",
+    "symbol": "crvUSD",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/30118/thumb/crvusd.jpeg?1683171990"
+  },
+  {
+    "name": "OKB on xDai",
+    "address": "0x4efdfbb7cca540a79a7e4dcad1cb6ed14f21c43e",
+    "symbol": "OKB",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/4463/thumb/WeChat_Image_20220118095654.png?1642471050"
+  },
+  {
+    "name": "Wrapped XRP from Mainnet",
+    "address": "0x10a82313a4daef47c1ab9ef2bb00b22b3b0cc14c",
+    "symbol": "WXRP",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/19952/thumb/WXRP_revision-256px.png?1648530664"
+  },
+  {
+    "name": "Swapr on xDai",
+    "address": "0x532801ed6f82fffd2dab70a19fc2d7b2772c4f4b",
+    "symbol": "SWPR",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/18740/thumb/swapr.jpg?1633516501"
+  },
+  {
+    "name": "Aura",
+    "address": "0x1509706a6c66ca549ff0cb464de88231ddbe213b",
+    "symbol": "AURA",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0x1509706a6c66CA549ff0cB464de88231DDBe213B/logo.png"
+  },
+  {
+    "name": "Frontier Token on xDai",
+    "address": "0x1bbca7491f14b46788ff9c834d97a668c4886523",
+    "symbol": "FRONT",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/12479/thumb/frontier_logo.png?1600145472"
+  },
+  {
+    "name": "Rari Governance Token on xDai",
+    "address": "0x417ae38b3053a736b4274aed8dbd1a8a6fdbc974",
+    "symbol": "RGT",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/12900/thumb/Rari_Logo_Transparent.png?1613978014"
+  },
+  {
+    "name": "Wrapped liquid staked Ether 2.0 from Mainnet",
+    "address": "0x6c76971f98945ae98dd7d4dfca8711ebea946ea6",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/18834/thumb/wstETH.png?1633565443"
+  },
+  {
+    "name": "Tellor Tributes from Mainnet",
+    "address": "0xaad66432d27737ecf6ed183160adc5ef36ab99f2",
+    "symbol": "TRB",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/9644/thumb/Blk_icon_current.png?1584980686"
+  },
+  {
+    "name": "Ethix on xDai",
+    "address": "0xec3f3e6d7907acda3a7431abd230196cda3fbb19",
+    "symbol": "ETHIX",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/3031/thumb/ETHIX_icon_256x256-256.png?1622195164"
+  },
+  {
+    "name": "Numeraire on xDai",
+    "address": "0x0b7a1c1a3d314dcc271ea576da400b24e9ad3094",
+    "symbol": "NMR",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/752/thumb/numeraire.png?1592538976"
+  },
+  {
+    "name": "DeHive.finance from Mainnet",
+    "address": "0x3e34a554b7b7274852050d0cb9e7c48f07812148",
+    "symbol": "DHV",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/14926/thumb/logo_200x200.png?1626181831"
+  },
+  {
+    "name": "USDP Stablecoin on xDai",
+    "address": "0xfe7ed09c4956f7cdb54ec4ffcb9818db2d7025b8",
+    "symbol": "USDP",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/13234/thumb/USDP.png?1606579598"
+  },
+  {
+    "name": "Coinbase Wrapped Staked ETH from Mainnet",
+    "address": "0xe0cf6c7ed5ca334bd39f86366defbc3fc6dbbcab",
+    "symbol": "cbETH",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/27008/thumb/cbeth.png?1661390066"
+  },
+  {
+    "name": "Hop",
+    "address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
+    "symbol": "HOP",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/25445/thumb/hop.png?1665541677"
+  },
+  {
+    "name": "NFTX on xDai",
+    "address": "0x8e1a12da00bbf9db10d48bd66ff818be933964d5",
+    "symbol": "NFTX",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/13574/thumb/NFTX_%28Real%29.jpg?1613449530"
+  },
+  {
+    "name": "decentral.games on xDai",
+    "address": "0x915742cb77124761015f63e079089ad0eff1b57c",
+    "symbol": "$DG",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/13267/thumb/%28Old%29_DG.png?1639209538"
+  },
+  {
+    "name": "MtPelerin Shares from Mainnet",
+    "address": "0xcd022e3ed68aba7c83964fc2f56d6eb59559ab71",
+    "symbol": "MPS",
+    "decimals": 0,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/11471/thumb/MPS.png?1590319120"
+  },
+  {
+    "name": "Monerium EUR emoney",
+    "address": "0xcb444e90d8198415266c6a2724b7900fb12fc56e",
+    "symbol": "EURe",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/100/0xcB444e90D8198415266c6a2724b7900fb12FC56E/logo.png"
+  },
+  {
+    "name": "SHIBA INU on xDai",
+    "address": "0x4ea1172f4c4e8e8d3c9e1be4269b696bf19d24fe",
+    "symbol": "SHIB",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/11939/thumb/shiba.png?1622619446"
+  },
+  {
+    "name": "Mai Stablecoin from Mainnet",
+    "address": "0xe959db3c04376b017b37c95618bbaeb59f51abba",
+    "symbol": "MAI",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/15264/thumb/mimatic-red.png?1620281018"
+  },
+  {
+    "name": "Hakka Finance on xDai",
+    "address": "0xad601530859513371fa107ae6a7e18e08d69f155",
+    "symbol": "HAKKA",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/12163/thumb/Hakka-icon.png?1597746776"
+  },
+  {
+    "name": "Serum on xDai",
+    "address": "0x3ae8c08cd61d05ad6e22973e4b675a92d412ee3c",
+    "symbol": "SRM",
+    "decimals": 6,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/11970/thumb/serum-logo.png?1597121577"
+  },
+  {
+    "name": "lien on xDai",
+    "address": "0x6062ec2a1ecfcd0026d9bd67aa5ad743adc03995",
+    "symbol": "LIEN",
+    "decimals": 8,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/12224/thumb/Lien.png?1598262819"
+  },
+  {
+    "name": "Prime from Mainnet",
+    "address": "0x921557ac88f770aab08eef6ac32106f00c7a5e72",
+    "symbol": "D2D",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/21609/thumb/RJD82RrV_400x400.jpg?1639559164"
+  },
+  {
+    "name": "The 4th Pillar Token on xDai",
+    "address": "0xe6ff35dc3227a0c46e92b640bcb5c5895ad8c687",
+    "symbol": "FOUR",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/3434/thumb/FOUR.png?1691548255"
+  },
+  {
+    "name": "HUSD on xDai",
+    "address": "0x1e37e5b504f7773460d6eb0e24d2e7c223b66ec7",
+    "symbol": "HUSD",
+    "decimals": 8,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/9567/thumb/HUSD.jpg?1568889385"
+  },
+  {
+    "name": "Bincentive Token from Mainnet",
+    "address": "0xe746a0476b833f2fa658e2b549dcfa5abbb9c3c9",
+    "symbol": "BCNT",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/9661/thumb/bcnt.png?1640328324"
+  },
+  {
+    "name": "Liquid staked Ether 2.0 on xDai",
+    "address": "0x3c037849a8ffcf19886e2f5b04f293b7847d0377",
+    "symbol": "stETH",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/13442/thumb/steth_logo.png?1608607546"
+  },
+  {
+    "name": "JPY Coin",
+    "address": "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb",
+    "symbol": "JPYC",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/25971/thumb/2023jpyc.png?1675935375"
+  },
+  {
+    "name": "Mask Network on xDai",
+    "address": "0x4e1a2bffe81000f7be4807faf0315173c817d6f4",
+    "symbol": "MASK",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/14051/thumb/Mask_Network.jpg?1614050316"
+  }
+]

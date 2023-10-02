@@ -12,6 +12,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const logos = {};
 
 function sortTokenList(list) {
+
   function compareStrings(a, b) {
     // Assuming you want case-insensitive comparison
     a = a.toLowerCase();
@@ -36,6 +37,8 @@ function sortTokenList(list) {
       }
     }
     map[key] = i;
+
+    token.name = token.name.replace("on xDai", "on Gnosis")
   }
 
   return list.sort(function (a, b) {

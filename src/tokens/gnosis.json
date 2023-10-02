@@ -536,7 +536,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x7c16c63684d86bacc52e8793b08a5a1a3cb1ba1e/logo.png"
   },
   {
-    "name": "decentral.games on xDai",
+    "name": "decentral.games on Gnosis",
     "address": "0x915742cb77124761015f63e079089ad0eff1b57c",
     "symbol": "$DG",
     "decimals": 18,
@@ -648,7 +648,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x9bd5e0ce813d5172859b0b70ff7bb3c325cee913/logo.png"
   },
   {
-    "name": "Ethix on xDai",
+    "name": "Ethix on Gnosis",
     "address": "0xec3f3e6d7907acda3a7431abd230196cda3fbb19",
     "symbol": "ETHIX",
     "decimals": 18,
@@ -704,7 +704,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xa106739de31fa7a9df4a93c9bea3e1bade0924e2/logo.png"
   },
   {
-    "name": "Frontier Token on xDai",
+    "name": "Frontier Token on Gnosis",
     "address": "0x1bbca7491f14b46788ff9c834d97a668c4886523",
     "symbol": "FRONT",
     "decimals": 18,
@@ -752,7 +752,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xfadc59d012ba3c110b08a15b7755a5cb7cbe77d7/logo.png"
   },
   {
-    "name": "Hakka Finance on xDai",
+    "name": "Hakka Finance on Gnosis",
     "address": "0xad601530859513371fa107ae6a7e18e08d69f155",
     "symbol": "HAKKA",
     "decimals": 18,
@@ -816,7 +816,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xd057604a14982fe8d88c5fc25aac3267ea142a08/logo.png"
   },
   {
-    "name": "HUSD on xDai",
+    "name": "HUSD on Gnosis",
     "address": "0x1e37e5b504f7773460d6eb0e24d2e7c223b66ec7",
     "symbol": "HUSD",
     "decimals": 8,
@@ -864,7 +864,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xcf9dc2de2a67d7db1a7171e3b8456d2171e4da75/logo.png"
   },
   {
-    "name": "lien on xDai",
+    "name": "lien on Gnosis",
     "address": "0x6062ec2a1ecfcd0026d9bd67aa5ad743adc03995",
     "symbol": "LIEN",
     "decimals": 8,
@@ -872,7 +872,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x6062ec2a1ecfcd0026d9bd67aa5ad743adc03995/logo.png"
   },
   {
-    "name": "Liquid staked Ether 2.0 on xDai",
+    "name": "Liquid staked Ether 2.0 on Gnosis",
     "address": "0x3c037849a8ffcf19886e2f5b04f293b7847d0377",
     "symbol": "stETH",
     "decimals": 18,
@@ -920,7 +920,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x5fd896d248fbfa54d26855c267859eb1b4daee72/logo.png"
   },
   {
-    "name": "Mask Network on xDai",
+    "name": "Mask Network on Gnosis",
     "address": "0x4e1a2bffe81000f7be4807faf0315173c817d6f4",
     "symbol": "MASK",
     "decimals": 18,
@@ -1040,7 +1040,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x26dc03e492763068ccfe7c39b93a22442807c360/logo.png"
   },
   {
-    "name": "NFTX on xDai",
+    "name": "NFTX on Gnosis",
     "address": "0x8e1a12da00bbf9db10d48bd66ff818be933964d5",
     "symbol": "NFTX",
     "decimals": 18,
@@ -1048,7 +1048,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x8e1a12da00bbf9db10d48bd66ff818be933964d5/logo.jpg"
   },
   {
-    "name": "Numeraire on xDai",
+    "name": "Numeraire on Gnosis",
     "address": "0x0b7a1c1a3d314dcc271ea576da400b24e9ad3094",
     "symbol": "NMR",
     "decimals": 18,
@@ -1064,7 +1064,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x51732a6fc4673d1acca4c047f5465922716508ad/logo.png"
   },
   {
-    "name": "OKB on xDai",
+    "name": "OKB on Gnosis",
     "address": "0x4efdfbb7cca540a79a7e4dcad1cb6ed14f21c43e",
     "symbol": "OKB",
     "decimals": 18,
@@ -1232,7 +1232,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x57e93bb58268de818b42e3795c97bad58afcd3fe/logo.png"
   },
   {
-    "name": "Rari Governance Token on xDai",
+    "name": "Rari Governance Token on Gnosis",
     "address": "0x417ae38b3053a736b4274aed8dbd1a8a6fdbc974",
     "symbol": "RGT",
     "decimals": 18,
@@ -1328,7 +1328,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x2fd0c73ad006407f0a96c984f06a9ce8415b094e/logo.png"
   },
   {
-    "name": "Serum on xDai",
+    "name": "Serum on Gnosis",
     "address": "0x3ae8c08cd61d05ad6e22973e4b675a92d412ee3c",
     "symbol": "SRM",
     "decimals": 6,
@@ -1344,7 +1344,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x0dae13fae64180d3cadcad22329a4abcaef15ca6/logo.png"
   },
   {
-    "name": "SHIBA INU on xDai",
+    "name": "SHIBA INU on Gnosis",
     "address": "0x4ea1172f4c4e8e8d3c9e1be4269b696bf19d24fe",
     "symbol": "SHIB",
     "decimals": 18,
@@ -1440,7 +1440,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x2995d1317dcd4f0ab89f4ae60f3f020a4f17c7ce/logo.png"
   },
   {
-    "name": "Swapr on xDai",
+    "name": "Swapr on Gnosis",
     "address": "0x532801ed6f82fffd2dab70a19fc2d7b2772c4f4b",
     "symbol": "SWPR",
     "decimals": 18,
@@ -1528,7 +1528,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x4ecaba5870353805a9f068101a40e0f32ed605c6/logo.png"
   },
   {
-    "name": "The 4th Pillar Token on xDai",
+    "name": "The 4th Pillar Token on Gnosis",
     "address": "0xe6ff35dc3227a0c46e92b640bcb5c5895ad8c687",
     "symbol": "FOUR",
     "decimals": 18,
@@ -1560,7 +1560,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x479e32cdff5f216f93060700c711d1cc8e811a6b/logo.png"
   },
   {
-    "name": "TrueFi on xDai",
+    "name": "TrueFi on Gnosis",
     "address": "0x4384a7c9498f905e433ee06b6552a18e1d7cd3a4",
     "symbol": "TRU",
     "decimals": 8,
@@ -1664,7 +1664,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xddafbb505ad214d7b80b1f830fccc89b60fb7a83/logo.png"
   },
   {
-    "name": "USDP Stablecoin on xDai",
+    "name": "USDP Stablecoin on Gnosis",
     "address": "0xfe7ed09c4956f7cdb54ec4ffcb9818db2d7025b8",
     "symbol": "USDP",
     "decimals": 18,

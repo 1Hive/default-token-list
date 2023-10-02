@@ -1,11 +1,11 @@
-const packageJson = require("../package.json");
-const schema = require("@uniswap/token-lists/src/tokenlist.schema.json");
-const { expect } = require("chai");
-const { getAddress } = require("@ethersproject/address");
-const Ajv = require("ajv");
-const buildList = require("../src/buildList");
-const jp = require("jsonpath");
-const axios = require("axios");
+import packageJson from "../package.json" assert { type: "json" };
+import schema from "./tokenlist.schema.json" assert { type: "json" };
+import { expect } from "chai";
+import { getAddress } from "@ethersproject/address";
+import Ajv from "ajv";
+import buildList from "../src/buildList.js";
+import jp from "jsonpath";
+import axios from "axios";
 
 const ajv = new Ajv({ allErrors: true, format: "full" });
 const validate = ajv.compile(schema);
@@ -29,7 +29,7 @@ describe("buildList", () => {
   it("validates", () => {
     if (!validate(defaultTokenList)) {
       // for errors
-      for (i = 0; i < validate.errors.length; i++) {
+      for (let i = 0; i < validate.errors.length; i++) {
         const error = validate.errors[i];
         console.log(error);
         if (error.dataPath) {
@@ -57,6 +57,9 @@ describe("buildList", () => {
     const map = {};
     for (let token of defaultTokenList.tokens) {
       const key = `${token.chainId}-${token.symbol.toLowerCase()}`;
+      if (typeof map[key] != "undefined") {
+        console.log(token)
+      }
       expect(typeof map[key]).to.equal("undefined");
       map[key] = true;
     }
@@ -109,17 +112,21 @@ describe("buildList", () => {
           );
         }
       }
-
+      let fails = 0;
       try {
         const response = await axios.get(url, { timeout: 20000 });
         if (response.status === 200) {
           // console.log(`URL ${url} é válida.`);
         } else {
           console.log(`URL ${url} retornou um status diferente de 200.`);
+          fails++;
+
         }
       } catch (error) {
+        fails++;
         console.error(`Erro ao verificar a URL ${url}: ${error.message}`);
       }
+      expect(fails).to.eq(0);
     }
   });
 });

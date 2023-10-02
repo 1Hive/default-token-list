@@ -1,10 +1,10 @@
-const { version } = require("../package.json");
-const gnosis = require("./tokens/gnosis.json");
-const polygon = require("./tokens/polygon.json");
-const zktestnet = require("./tokens/zksynctestnet.json");
+import packageJson from "../package.json" assert { type: "json" };
+import gnosis from "./tokens/gnosis.json" assert { type: "json" };
+import polygon from "./tokens/polygon.json" assert { type: "json" };
+import zktestnet from "./tokens/zksynctestnet.json" assert { type: "json" };
 
-module.exports = function buildList() {
-  const parsed = version.split(".");
+export default function buildList() {
+  const parsed = packageJson.version.split(".");
   return {
     name: "Honeyswap Default",
     timestamp: new Date().toISOString(),
@@ -16,8 +16,8 @@ module.exports = function buildList() {
     tags: {},
     logoURI:
       "https://ipfs.io/ipfs/bafybeihqunal3rxoz7bosmqxqobz2sz4nn62naufxqf2fyq35bepp4pkdy",
-    keywords: ["honeyswap", "gnosis", "polygon","zksync"],
-    tokens: [...gnosis, ...polygon,...zktestnet]
+    keywords: ["honeyswap", "gnosis", "polygon", "zksync"],
+    tokens: [...gnosis, ...polygon, ...zktestnet]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {

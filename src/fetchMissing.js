@@ -54,10 +54,10 @@ async function getLogo(gnosisAddr, tokenSymbol) {
   } else {
     console.log("Not on Coingecko or Cowswap List: ", gnosisAddr, " ", tokenSymbol);
   }
-  return ``
+  return ""
 }
 
-async function fetchMissing() {
+async function fetchMissing(listed) {
   const response = await fetch(
     "https://blockscout.com/poa/xdai/api/?module=account&action=tokentx&address=0xf6A78083ca3e2a662D6dd1703c939c8aCE2e268d"
   );
@@ -65,15 +65,12 @@ async function fetchMissing() {
   const bridgedTokens = [
     ...new Set(data.result.map((x) => x.contractAddress.toLowerCase())),
   ];
-  // console.log(bridgedTokens);
+  const jsonListed = await JSON.parse(listed);
 
-  const response2 = await fetch("https://tokens.honeyswap.org");
-  const data2 = await response2.json();
-
-  const listedTokens = data2.tokens.map((x) => x.address.toLowerCase());
+  const listedTokens = jsonListed.map((x) => x.address.toLowerCase());
   const missingTokens = bridgedTokens.filter((x) => !listedTokens.includes(x));
   return Promise.all(
-    missingTokens
+    bridgedTokens
       .map((x) => data.result.find((y) => y.contractAddress === x))
       .map(
         async ({ tokenName, tokenSymbol, tokenDecimal, contractAddress }) => {
@@ -100,17 +97,21 @@ const geckoList = await fetchGecko.json();
 const fetchCow = await fetch("https://files.cow.fi/tokens/CowSwap.json");
 const cowList = await fetchCow.json();
 
-fetchMissing().then((x) => {
-  const cleanJson = x.filter(function (obj) {
-    if (!obj) {
-      return false; // skip
-    }
-    return true
+fs.readFile(__dirname + "/tokens/gnosis.json", { encoding: "UTF8" }, function read(err, data) {
+  if (err) {
+    throw err;
   }
-  )
-  const newTokens = JSON.stringify(cleanJson, null, "  ");
-  fs.writeFile((__dirname + "/newGnosisTokens.json"), newTokens, function (err) {
-    if (err) console.log(err);
+  fetchMissing(data).then((x) => {
+    const cleanJson = x.filter(function (obj) {
+      if (!obj) {
+        return false; // skip
+      }
+      return true
+    }
+    )
+    const newTokens = JSON.stringify(cleanJson, null, "  ");
+    fs.writeFile((__dirname + "/newGnosisTokens.json"), newTokens, function (err) {
+      if (err) console.log(err);
+    });
   });
 });
-

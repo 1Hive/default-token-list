@@ -101,30 +101,32 @@ describe("buildList", () => {
   it("all images return status 200", async function () {
     this.timeout(0);
     const branch = getBranchFromArgs(undefined);
+    let fails = 0;
     for (let token of defaultTokenList.tokens) {
       let url = token.logoURI;
       // if tokenURI have that format: *1Hive/default-token-list/master/src/assets/* then replace to *1Hive/default-token-list/{branch}/src/assets*
-      if (branch) {
-        if (url.includes("1Hive/default-token-list/master/src/assets/")) {
+      if (url.includes(`https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/${token.address.toLowerCase()}/logo.`)) {
+        if (branch) {
+
           url = url.replace(
             "1Hive/default-token-list/master/src/assets/",
             `1Hive/default-token-list/${branch}/src/assets/`
           );
         }
-      }
-      let fails = 0;
-      try {
-        const response = await axios.get(url, { timeout: 20000 });
-        if (response.status === 200) {
-          // console.log(`URL ${url} é válida.`);
-        } else {
-          console.log(`URL ${url} retornou um status diferente de 200.`);
-          fails++;
+      }else{
+        try {
+          const response = await axios.get(url, { timeout: 20000 });
+          if (response.status === 200) {
+            // console.log(`URL ${url} é válida.`);
+          } else {
+            console.log(`URL ${url} retornou um status diferente de 200.`);
+            fails++;
 
+          }
+        } catch (error) {
+          fails++;
+          console.error(`Erro ao verificar a URL ${url}: ${error.message}`);
         }
-      } catch (error) {
-        fails++;
-        console.error(`Erro ao verificar a URL ${url}: ${error.message}`);
       }
       expect(fails).to.eq(0);
     }

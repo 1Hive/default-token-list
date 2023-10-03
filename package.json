@@ -38,15 +38,9 @@
     "ajv": "^6.12.6",
     "axios": "^1.5.1",
     "chai": "^4.3.10",
-<<<<<<< HEAD
     "mocha": "^10.2.0",
     "node-fetch": "^2.7.0",
     "rimraf": "^4.4.1",
-=======
-    "mocha": "^8.4.0",
-    "node-fetch": "^2.7.0",
-    "rimraf": "^3.0.2",
->>>>>>> 5d38e6404e9c1971683b4c6c124a4a610fca26c8
     "web3-utils": "^1.10.2"
   },
   "dependencies": {

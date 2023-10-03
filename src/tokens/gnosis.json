@@ -1728,7 +1728,7 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0xb17d999e840e0c1b157ca5ab8039bd958b5fa317/logo.png"
   },
   {
-    "name": "Wrapped liquid staked Ether 2.0 from Mainnet",
+    "name": "Wrapped liquid staked Ether 2.0",
     "address": "0x6c76971f98945ae98dd7d4dfca8711ebea946ea6",
     "symbol": "wstETH",
     "decimals": 18,

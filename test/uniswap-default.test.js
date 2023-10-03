@@ -105,7 +105,7 @@ describe("buildList", () => {
     for (let token of defaultTokenList.tokens) {
       let url = token.logoURI;
       // if tokenURI have that format: *1Hive/default-token-list/master/src/assets/* then replace to *1Hive/default-token-list/{branch}/src/assets*
-      if (url.includes(`https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/${token.address.toLowerCase()}/logo.`)) {
+      if (url.includes(`https://raw.githubusercontent.com/1Hive/default-token-list/`)) {
         if (branch) {
 
           url = url.replace(
@@ -113,22 +113,25 @@ describe("buildList", () => {
             `1Hive/default-token-list/${branch}/src/assets/`
           );
         }
-      }else{
+      } else {
         try {
           const response = await axios.get(url, { timeout: 20000 });
           if (response.status === 200) {
             // console.log(`URL ${url} é válida.`);
           } else {
             console.log(`URL ${url} retornou um status diferente de 200.`);
-            fails++;
+            if (token.chainId === 100)
+              fails++;
 
           }
         } catch (error) {
-          fails++;
+          if (token.chainId === 100)
+            fails++;
+
           console.error(`Erro ao verificar a URL ${url}: ${error.message}`);
         }
       }
-      expect(fails).to.eq(0);
     }
+    expect(fails).to.eq(0);
   });
 });

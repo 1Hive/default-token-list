@@ -36,16 +36,16 @@
   "devDependencies": {
     "@ethersproject/address": "^5.7.0",
     "ajv": "^6.12.6",
-    "axios": "^1.5.1",
-    "chai": "^4.3.10",
-    "mocha": "^10.2.0",
+    "axios": "^1.6.8",
+    "chai": "^4.4.1",
+    "mocha": "^10.4.0",
     "node-fetch": "^2.7.0",
     "rimraf": "^4.4.1",
-    "web3-utils": "^1.10.2"
+    "web3-utils": "^1.10.4"
   },
   "dependencies": {
-    "@wagmi/core": "^1.4.3",
+    "@wagmi/core": "^1.4.13",
     "jsonpath": "^1.1.1",
-    "viem": "^1.15.0"
+    "viem": "^1.21.4"
   }
 }

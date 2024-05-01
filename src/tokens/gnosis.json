@@ -64,6 +64,14 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x743a991365ba94bfc90ad0002cad433c7a33cb4a/logo.png"
   },
   {
+    "name": "Ajna Token on Gnosis",
+    "address": "0x67ee2155601e168f7777f169cd74f3e22bb5e0ce",
+    "symbol": "AJNA",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/gnosis/0x67ee2155601e168f7777f169cd74f3e22bb5e0ce/logo.png"
+  },
+  {
     "name": "Akropolis on Gnosis",
     "address": "0xd27e1ecc4748f42e052331bea917d89beb883fc3",
     "symbol": "AKRO",

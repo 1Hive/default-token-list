@@ -62,6 +62,7 @@ async function fetchMissing(listed) {
     "https://blockscout.com/poa/xdai/api/?module=account&action=tokentx&address=0xf6A78083ca3e2a662D6dd1703c939c8aCE2e268d"
   );
   const data = await response.json();
+  if(!data)return null
   const bridgedTokens = [
     ...new Set(data.result.map((x) => x.contractAddress.toLowerCase())),
   ];

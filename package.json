@@ -11,7 +11,7 @@
     "fetch-missing": "node src/fetchMissing.js",
     "fix-lists": "node src/fixLists.js",
     "test": "mocha --exit",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/index.json",
+    "build": "mkdir -p build && node src/write.js > build/index.json",
     "prepublishOnly": "pnpm test && pnpm run build"
   },
   "files": [
